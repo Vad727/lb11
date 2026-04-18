@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+  adult_male     0.9500    0.9500    0.9500        20
+adult_female     0.7083    0.8500    0.7727        20
+   child_boy     0.6250    0.5769    0.6000        26
+  child_girl     0.6667    0.6154    0.6400        26
+
+    accuracy                         0.7283        92
+   macro avg     0.7375    0.7481    0.7407        92
+weighted avg     0.7255    0.7283    0.7249        92

@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.7282608695652174,
+  "macro_f1": 0.7406818181818182,
+  "weighted_f1": 0.7249407114624505,
+  "evaluation_level": "file",
+  "train_files": 365,
+  "test_files": 92,
+  "train_windows": 1598,
+  "test_windows": 378
+}

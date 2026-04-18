@@ -1,0 +1,5082 @@
+[
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.304,
+    "dominant_frequencies": [
+      1189.8794416243654,
+      1042.988578680203,
+      268.4010152284264,
+      1131.1865482233502,
+      590.260152284264
+    ],
+    "dominant_amplitudes": [
+      299.6442404373267,
+      282.9019231031771,
+      215.59941149820446,
+      203.45148410131043,
+      202.53078929260417
+    ],
+    "frequency_band_energies": {
+      "very_low": 420816.4496912028,
+      "low": 8760481.700767718,
+      "mid_low": 11401193.696536673,
+      "mid": 23503242.624856282,
+      "mid_high": 1794088.7550469416,
+      "high": 2433925.1417433736,
+      "very_high": 2553982.4497618377
+    },
+    "spectral_centroid": 2357.0672075206753,
+    "spectral_spread": 1933.3277271113416,
+    "spectral_rolloff_85": 1809.6446700507615,
+    "spectral_rolloff_95": 4013.324873096447,
+    "spectral_entropy": 14.782450525111795,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.18365323604060912,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.38520247383789e-10,
+    "frequency_stability": 3.829997496053895e-10,
+    "filename": "Matvey_Lapshin_9_let 20233.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.6034375,
+    "dominant_frequencies": [
+      13.326392503904216,
+      561.2228479485117,
+      329.2224693578155,
+      605.745113813828,
+      370.56457337560926
+    ],
+    "dominant_amplitudes": [
+      801.5534085499427,
+      478.55936633561186,
+      415.390571991302,
+      311.3522979608993,
+      295.55732485505763
+    ],
+    "frequency_band_energies": {
+      "very_low": 4189039.9024374266,
+      "low": 21995198.762671705,
+      "mid_low": 24894907.673138633,
+      "mid": 3050503.7184687546,
+      "mid_high": 440398.0887632427,
+      "high": 344838.03573938186,
+      "very_high": 900027.1161154186
+    },
+    "spectral_centroid": 1854.4783107682154,
+    "spectral_spread": 1949.5232250785737,
+    "spectral_rolloff_85": 900.4401116842554,
+    "spectral_rolloff_95": 1367.923903270077,
+    "spectral_entropy": 14.223023055826268,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.09913870616629597,
+    "fundamental_frequency": 313.72549019607845,
+    "periodicity_strength": 0.5012773166448957,
+    "spectral_flux": 5.059277533876629e-10,
+    "frequency_stability": 6.464627452040334e-10,
+    "filename": "sdgfsdg.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.68,
+    "dominant_frequencies": [
+      475.0,
+      237.77173913043478,
+      711.6847826086956,
+      588.5869565217391,
+      296.4673913043478
+    ],
+    "dominant_amplitudes": [
+      567.7903830579083,
+      428.7849576151623,
+      223.02567747941615,
+      165.02900436561833,
+      155.77834390658245
+    ],
+    "frequency_band_energies": {
+      "very_low": 3113100.341155132,
+      "low": 7859827.600679883,
+      "mid_low": 5778929.462426929,
+      "mid": 462016.54135303246,
+      "mid_high": 74599.6660439517,
+      "high": 33918.35522421207,
+      "very_high": 11882.705332902957
+    },
+    "spectral_centroid": 1130.3334048114975,
+    "spectral_spread": 1318.4444100623969,
+    "spectral_rolloff_85": 706.25,
+    "spectral_rolloff_95": 898.3695652173913,
+    "spectral_entropy": 12.675376694181063,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.07921195652173912,
+    "fundamental_frequency": 238.80597014925374,
+    "periodicity_strength": 0.6574189607290303,
+    "spectral_flux": 2.1440157660382604e-10,
+    "frequency_stability": 3.4696710066420473e-10,
+    "filename": "okjml.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.912,
+    "dominant_frequencies": [
+      413.19444444444446,
+      476.4178240740741,
+      544.4155092592592,
+      644.0972222222223,
+      917.1006944444445
+    ],
+    "dominant_amplitudes": [
+      307.95150499804623,
+      271.334108895832,
+      229.12635140005085,
+      214.95813407584993,
+      214.3899623041843
+    ],
+    "frequency_band_energies": {
+      "very_low": 369770.57939574006,
+      "low": 19250877.925205685,
+      "mid_low": 22964839.608556017,
+      "mid": 14272696.447548773,
+      "mid_high": 2021776.1756752485,
+      "high": 1303905.8551322538,
+      "very_high": 969136.2796344518
+    },
+    "spectral_centroid": 1895.0996323550885,
+    "spectral_spread": 1763.8946623341856,
+    "spectral_rolloff_85": 1377.7488425925926,
+    "spectral_rolloff_95": 2260.5613425925926,
+    "spectral_entropy": 14.65847216565841,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.19028501157407407,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 5.432474547157153e-10,
+    "frequency_stability": 5.095013381858745e-10,
+    "filename": "Matvey_Lapshin_9_let 20234.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.912,
+    "dominant_frequencies": [
+      567.6510989010989,
+      283.99725274725273,
+      640.7967032967033,
+      855.7692307692307,
+      121.56593406593407
+    ],
+    "dominant_amplitudes": [
+      373.7307547340337,
+      283.84073765591995,
+      250.82522349126197,
+      152.59558857178672,
+      104.43151135058862
+    ],
+    "frequency_band_energies": {
+      "very_low": 408310.06417610805,
+      "low": 2588584.503647636,
+      "mid_low": 7145202.358240629,
+      "mid": 565663.246712513,
+      "mid_high": 91913.98922491065,
+      "high": 31937.360618543997,
+      "very_high": 22475.646681161103
+    },
+    "spectral_centroid": 1379.246449837857,
+    "spectral_spread": 1581.7456985344427,
+    "spectral_rolloff_85": 658.9972527472528,
+    "spectral_rolloff_95": 1244.848901098901,
+    "spectral_entropy": 12.665794966084285,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.07733087225274725,
+    "fundamental_frequency": 296.2962962962963,
+    "periodicity_strength": 0.618865371031771,
+    "spectral_flux": 4.918203975709445e-10,
+    "frequency_stability": 5.450697931923455e-10,
+    "filename": "124124wav.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 9.376,
+    "dominant_frequencies": [
+      449.55204778156997,
+      335.1109215017065,
+      951.3651877133107,
+      858.7883959044369,
+      902.410409556314
+    ],
+    "dominant_amplitudes": [
+      413.5694257135067,
+      333.3666823023786,
+      323.13259576199664,
+      293.2941714992393,
+      259.0784893309585
+    ],
+    "frequency_band_energies": {
+      "very_low": 462726.91916346777,
+      "low": 26225314.847413484,
+      "mid_low": 50399168.63550587,
+      "mid": 24361795.920084417,
+      "mid_high": 3282080.7249351814,
+      "high": 3993015.2103767097,
+      "very_high": 3799883.508814625
+    },
+    "spectral_centroid": 2164.18708537724,
+    "spectral_spread": 1871.6595422392604,
+    "spectral_rolloff_85": 1548.8481228668943,
+    "spectral_rolloff_95": 3565.806313993174,
+    "spectral_entropy": 15.259717295006531,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.19836550767918087,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 8.724394938912834e-10,
+    "frequency_stability": 7.817674495427388e-10,
+    "filename": "Matvey_Lapshin_9_let 20235.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.5588125,
+    "dominant_frequencies": [
+      831.4021089771862,
+      552.3435307325288,
+      1111.7437151677962,
+      973.8182109779079,
+      649.2121406519386
+    ],
+    "dominant_amplitudes": [
+      228.9153920180558,
+      141.50725783107595,
+      124.63798264456453,
+      118.7540782805072,
+      118.65851368424534
+    ],
+    "frequency_band_energies": {
+      "very_low": 69435.9934619531,
+      "low": 96104.18338838819,
+      "mid_low": 1909574.3804436554,
+      "mid": 944785.095670205,
+      "mid_high": 72674.98332330005,
+      "high": 14842.367016334676,
+      "very_high": 2850.612412739372
+    },
+    "spectral_centroid": 1346.3658828231125,
+    "spectral_spread": 1153.902233031041,
+    "spectral_rolloff_85": 1289.44308568221,
+    "spectral_rolloff_95": 1449.821578926266,
+    "spectral_entropy": 11.744178315135716,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11236518182911671,
+    "fundamental_frequency": 137.93103448275863,
+    "periodicity_strength": 0.44454765773202665,
+    "spectral_flux": 3.4273252692904743e-10,
+    "frequency_stability": 4.802446331998401e-10,
+    "filename": "egwryuou.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.168,
+    "dominant_frequencies": [
+      293.66629464285717,
+      365.6529017857143,
+      596.2611607142858,
+      253.48772321428572,
+      641.8805803571429
+    ],
+    "dominant_amplitudes": [
+      484.24398472263,
+      377.354955206515,
+      346.21678306675915,
+      261.7749004652451,
+      253.25454395642598
+    ],
+    "frequency_band_energies": {
+      "very_low": 1389647.1476620461,
+      "low": 24586273.046373077,
+      "mid_low": 30726075.90777293,
+      "mid": 7171788.414940818,
+      "mid_high": 1197196.283072969,
+      "high": 449848.26977636875,
+      "very_high": 245874.8133989157
+    },
+    "spectral_centroid": 1496.557633728481,
+    "spectral_spread": 1513.0747538444998,
+    "spectral_rolloff_85": 964.84375,
+    "spectral_rolloff_95": 1642.7176339285716,
+    "spectral_entropy": 14.318773706419634,
+    "rms_energy": 0.10000001639127731,
+    "zero_crossing_rate": 0.11384800502232142,
+    "fundamental_frequency": 320.0,
+    "periodicity_strength": 0.36340827415085686,
+    "spectral_flux": 3.1181782106153264e-10,
+    "frequency_stability": 3.450683419375854e-10,
+    "filename": "mndscvs.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 11.104,
+    "dominant_frequencies": [
+      314.4812680115274,
+      251.0806916426513,
+      587.6260806916426,
+      512.0677233429394,
+      740.3638328530259
+    ],
+    "dominant_amplitudes": [
+      529.8364564208705,
+      377.55064525339776,
+      375.44045627797607,
+      284.5182467758813,
+      278.79274844036564
+    ],
+    "frequency_band_energies": {
+      "very_low": 2940272.5210392834,
+      "low": 45504990.495952435,
+      "mid_low": 57897851.05783982,
+      "mid": 21999548.46943265,
+      "mid_high": 9188095.612561936,
+      "high": 10473517.542307058,
+      "very_high": 9818261.18672923
+    },
+    "spectral_centroid": 2426.1796459817915,
+    "spectral_spread": 1989.2149997134377,
+    "spectral_rolloff_85": 2604.28674351585,
+    "spectral_rolloff_95": 4257.474783861671,
+    "spectral_entropy": 15.720222025608283,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1755729917146974,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 1.9781760906335757e-10,
+    "frequency_stability": 2.2060913001349362e-10,
+    "filename": "rodomir-i-lev-demo-25-12-2024-diktorov.net2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.947375,
+    "dominant_frequencies": [
+      819.0253016244974,
+      471.7058804901992,
+      583.6790272016214,
+      543.6524272459546,
+      237.3729377117705
+    ],
+    "dominant_amplitudes": [
+      337.3917192604939,
+      312.62253279747154,
+      293.41694807152385,
+      229.28413637462722,
+      216.61444226116754
+    ],
+    "frequency_band_energies": {
+      "very_low": 1690368.779359949,
+      "low": 4866075.2995447805,
+      "mid_low": 10906467.439169662,
+      "mid": 2424773.747785487,
+      "mid_high": 29820.58240644742,
+      "high": 6856.694080911605,
+      "very_high": 20303.23877056314
+    },
+    "spectral_centroid": 1159.4533451714872,
+    "spectral_spread": 1304.5797865385098,
+    "spectral_rolloff_85": 871.9718800468667,
+    "spectral_rolloff_95": 1148.1047531587449,
+    "spectral_entropy": 12.808830591965345,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.1259856233572944,
+    "fundamental_frequency": 271.1864406779661,
+    "periodicity_strength": 0.4397391524096173,
+    "spectral_flux": 5.340724427722541e-10,
+    "frequency_stability": 6.894644200771379e-10,
+    "filename": "wrwf.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.152,
+    "dominant_frequencies": [
+      334.6273291925466,
+      590.2562111801243,
+      633.7344720496894,
+      293.47826086956525,
+      883.7344720496894
+    ],
+    "dominant_amplitudes": [
+      347.92163201873365,
+      299.92822705518375,
+      259.8082616905572,
+      233.13635134948166,
+      205.46092757895022
+    ],
+    "frequency_band_energies": {
+      "very_low": 340452.06257972476,
+      "low": 11791397.357280575,
+      "mid_low": 16353559.227260143,
+      "mid": 4255233.451903136,
+      "mid_high": 808389.036611405,
+      "high": 242027.25384841926,
+      "very_high": 184116.3792377916
+    },
+    "spectral_centroid": 1594.6590452185455,
+    "spectral_spread": 1619.2052513889153,
+    "spectral_rolloff_85": 1095.69099378882,
+    "spectral_rolloff_95": 1789.9844720496894,
+    "spectral_entropy": 13.930341022378146,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1377256405279503,
+    "fundamental_frequency": 301.8867924528302,
+    "periodicity_strength": 0.41496790194501604,
+    "spectral_flux": 4.925023748107049e-10,
+    "frequency_stability": 4.764674859688891e-10,
+    "filename": "fomenko-maksim-demo-19-03-2025-diktorov.net2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.663125,
+    "dominant_frequencies": [
+      621.8734004436103,
+      736.8025934140932,
+      325.40522095205597,
+      672.3767275209009,
+      260.4333731445146
+    ],
+    "dominant_amplitudes": [
+      361.3602330122261,
+      267.01718548682487,
+      247.8027622424729,
+      230.04291842824085,
+      161.07727230936177
+    ],
+    "frequency_band_energies": {
+      "very_low": 138176.5352570184,
+      "low": 3726135.7799543426,
+      "mid_low": 12511000.493451765,
+      "mid": 499165.9535720237,
+      "mid_high": 103664.8183080535,
+      "high": 21298.599604855197,
+      "very_high": 176219.5746738145
+    },
+    "spectral_centroid": 1740.4566730204456,
+    "spectral_spread": 1979.4951233156662,
+    "spectral_rolloff_85": 741.4434396860604,
+    "spectral_rolloff_95": 944.0027299095717,
+    "spectral_entropy": 13.18989985395611,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.16357276915202185,
+    "fundamental_frequency": 666.6666666666666,
+    "periodicity_strength": 0.378328686358012,
+    "spectral_flux": 7.395450713822755e-10,
+    "frequency_stability": 7.145068765960283e-10,
+    "filename": "sgdgw.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.464,
+    "dominant_frequencies": [
+      592.8217821782179,
+      1065.2846534653465,
+      550.7425742574258,
+      653.1559405940594,
+      812.5
+    ],
+    "dominant_amplitudes": [
+      440.45155770629634,
+      381.89203796125383,
+      371.41958645081064,
+      275.14650691335856,
+      257.4730615602922
+    ],
+    "frequency_band_energies": {
+      "very_low": 118735.1033650116,
+      "low": 4457532.214274324,
+      "mid_low": 34588166.809878595,
+      "mid": 10468961.959391909,
+      "mid_high": 3114458.416267268,
+      "high": 612997.3140898388,
+      "very_high": 121767.36140415266
+    },
+    "spectral_centroid": 1637.2977735812594,
+    "spectral_spread": 1437.6966418550799,
+    "spectral_rolloff_85": 1081.3737623762377,
+    "spectral_rolloff_95": 2260.6745049504952,
+    "spectral_entropy": 14.137532743221556,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.12515470297029702,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.730039259772236e-10,
+    "frequency_stability": 4.401383886304098e-10,
+    "filename": "M10_06_04.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.48325,
+    "dominant_frequencies": [
+      740.9803156192494,
+      405.7324485585234,
+      19.18251268610941,
+      606.256621870295,
+      283.9457982490381
+    ],
+    "dominant_amplitudes": [
+      285.78020191433757,
+      262.1782184205424,
+      215.22324851160107,
+      207.7468720101462,
+      176.97242783562257
+    ],
+    "frequency_band_energies": {
+      "very_low": 481421.014044117,
+      "low": 7980977.087079823,
+      "mid_low": 9942386.121356968,
+      "mid": 5343165.03661881,
+      "mid_high": 311221.67078925995,
+      "high": 283876.36563983525,
+      "very_high": 1384349.2535951945
+    },
+    "spectral_centroid": 2340.7887083737264,
+    "spectral_spread": 2139.232968378651,
+    "spectral_rolloff_85": 1560.9212067138794,
+    "spectral_rolloff_95": 4242.9041431996875,
+    "spectral_entropy": 14.127531457669386,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.14271873083142808,
+    "fundamental_frequency": 372.09302325581393,
+    "periodicity_strength": 0.3649821239038351,
+    "spectral_flux": 8.212454098506208e-10,
+    "frequency_stability": 7.213039245321846e-10,
+    "filename": "sgsG.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.504,
+    "dominant_frequencies": [
+      547.2383720930233,
+      588.1177325581396,
+      795.2398255813953,
+      654.9781976744185,
+      900.0726744186046
+    ],
+    "dominant_amplitudes": [
+      341.6508999384718,
+      321.7933080979845,
+      292.2130186830948,
+      255.4241106629843,
+      224.26233367703955
+    ],
+    "frequency_band_energies": {
+      "very_low": 270851.73030270066,
+      "low": 2890304.01514667,
+      "mid_low": 28566927.45664705,
+      "mid": 3630733.1198642394,
+      "mid_high": 1887252.125509432,
+      "high": 754296.1201427712,
+      "very_high": 775971.2568157145
+    },
+    "spectral_centroid": 2005.8042588406593,
+    "spectral_spread": 1793.3716703987536,
+    "spectral_rolloff_85": 1041.2427325581396,
+    "spectral_rolloff_95": 2623.364825581395,
+    "spectral_entropy": 14.27560455310532,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.1494594840116279,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 5.645918535262446e-10,
+    "frequency_stability": 5.229378154988653e-10,
+    "filename": "M15_07_04.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.136,
+    "dominant_frequencies": [
+      517.5382653061224,
+      268.8137755102041,
+      563.1377551020408,
+      757.0153061224489,
+      633.9285714285714
+    ],
+    "dominant_amplitudes": [
+      336.6001822327127,
+      249.0249693057306,
+      234.73189516186974,
+      217.60599219041248,
+      176.42680254576436
+    ],
+    "frequency_band_energies": {
+      "very_low": 497177.6503840827,
+      "low": 2426362.2216697335,
+      "mid_low": 8062669.992884817,
+      "mid": 572823.4935278138,
+      "mid_high": 372063.3475598064,
+      "high": 160343.21264335752,
+      "very_high": 496717.13302310335
+    },
+    "spectral_centroid": 2317.357917319971,
+    "spectral_spread": 2216.510652936611,
+    "spectral_rolloff_85": 855.8673469387755,
+    "spectral_rolloff_95": 3267.8571428571427,
+    "spectral_entropy": 13.630994004636745,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.19993622448979592,
+    "fundamental_frequency": 262.2950819672131,
+    "periodicity_strength": 0.35263939125405147,
+    "spectral_flux": 3.4294294094517836e-10,
+    "frequency_stability": 3.3203083889230167e-10,
+    "filename": "ЕгорК_20253.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.144,
+    "dominant_frequencies": [
+      288.4114583333333,
+      565.4296875,
+      618.65234375,
+      339.84375,
+      990.8854166666666
+    ],
+    "dominant_amplitudes": [
+      727.3640137885338,
+      408.549900128789,
+      334.624868842596,
+      258.1113375369951,
+      181.06682500964257
+    ],
+    "frequency_band_energies": {
+      "very_low": 819279.3783123719,
+      "low": 20063921.47807123,
+      "mid_low": 23027628.02261864,
+      "mid": 3225753.624887134,
+      "mid_high": 499434.25594066724,
+      "high": 250819.851715146,
+      "very_high": 431560.1572948341
+    },
+    "spectral_centroid": 1670.6300913121356,
+    "spectral_spread": 1828.718532380436,
+    "spectral_rolloff_85": 889.9739583333333,
+    "spectral_rolloff_95": 1195.1497395833333,
+    "spectral_entropy": 14.129715440471102,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.12883504231770834,
+    "fundamental_frequency": 296.2962962962963,
+    "periodicity_strength": 0.5070617863777646,
+    "spectral_flux": 3.0196876657478885e-10,
+    "frequency_stability": 3.5634310322458493e-10,
+    "filename": "kmnnksdc.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.192,
+    "dominant_frequencies": [
+      561.3072519083969,
+      493.5591603053435,
+      246.66030534351142,
+      453.00572519083966,
+      412.9293893129771
+    ],
+    "dominant_amplitudes": [
+      290.5911871420591,
+      286.0231082946647,
+      284.0016380511838,
+      253.5972110524982,
+      161.1342063626145
+    ],
+    "frequency_band_energies": {
+      "very_low": 2036792.2606007052,
+      "low": 7851174.913098754,
+      "mid_low": 8344301.132917666,
+      "mid": 2738666.644663176,
+      "mid_high": 1002527.704868314,
+      "high": 182970.39448669378,
+      "very_high": 337072.6913263546
+    },
+    "spectral_centroid": 1860.6911597852618,
+    "spectral_spread": 1854.5422322783802,
+    "spectral_rolloff_85": 1519.3225190839694,
+    "spectral_rolloff_95": 2270.038167938931,
+    "spectral_entropy": 13.848070718388039,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.1859792461832061,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.5485534925897685e-10,
+    "frequency_stability": 3.5412541597628704e-10,
+    "filename": "lev2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.272,
+    "dominant_frequencies": [
+      348.3737244897959,
+      474.1709183673469,
+      301.4987244897959,
+      618.3035714285714,
+      433.19515306122446
+    ],
+    "dominant_amplitudes": [
+      478.0914418315272,
+      443.7521190886166,
+      302.972215991425,
+      289.7558334493571,
+      222.78489028458534
+    ],
+    "frequency_band_energies": {
+      "very_low": 558473.4628798573,
+      "low": 27613199.51209396,
+      "mid_low": 16693416.571991196,
+      "mid": 3474593.9785285043,
+      "mid_high": 1040567.1794170499,
+      "high": 718903.3920231671,
+      "very_high": 253468.28669549327
+    },
+    "spectral_centroid": 1604.1684255683354,
+    "spectral_spread": 1631.58632054548,
+    "spectral_rolloff_85": 862.8826530612245,
+    "spectral_rolloff_95": 1720.344387755102,
+    "spectral_entropy": 14.13186215488499,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.13673867984693877,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 6.077881180660556e-10,
+    "frequency_stability": 6.242434823988025e-10,
+    "filename": "fomenko-maksim-demo-19-03-2025-diktorov.net3.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 11.296,
+    "dominant_frequencies": [
+      1210.3399433427762,
+      537.5354107648726,
+      909.7910764872522,
+      272.8399433427762,
+      578.4348441926346
+    ],
+    "dominant_amplitudes": [
+      512.0208384673621,
+      485.95791623734783,
+      376.3035083339271,
+      364.27970293190594,
+      326.77998305232825
+    ],
+    "frequency_band_energies": {
+      "very_low": 3304806.5729729976,
+      "low": 25726917.42042499,
+      "mid_low": 58879855.780147456,
+      "mid": 54588929.046730325,
+      "mid_high": 10702601.32227098,
+      "high": 7038758.393710693,
+      "very_high": 3085644.1828603195
+    },
+    "spectral_centroid": 1944.9006609990727,
+    "spectral_spread": 1504.9644073503111,
+    "spectral_rolloff_85": 1867.2981586402268,
+    "spectral_rolloff_95": 3227.514164305949,
+    "spectral_entropy": 15.358998607008905,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.13419573300283286,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 2.538648934944426e-10,
+    "frequency_stability": 3.490830654903066e-10,
+    "filename": "igor-fedyanin-demo-10-09-2024-diktorov.net4.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.168,
+    "dominant_frequencies": [
+      351.64141414141415,
+      482.00757575757575,
+      297.6641414141414,
+      537.2474747474747,
+      1008.2070707070707
+    ],
+    "dominant_amplitudes": [
+      274.19783242603654,
+      260.889094760437,
+      150.76993821648526,
+      139.02031764958616,
+      126.99027756757788
+    ],
+    "frequency_band_energies": {
+      "very_low": 81798.684204195,
+      "low": 6138194.095879139,
+      "mid_low": 2864928.809025745,
+      "mid": 2808580.0172612052,
+      "mid_high": 395836.40948717325,
+      "high": 246545.87308523955,
+      "very_high": 310483.98094235745
+    },
+    "spectral_centroid": 1842.9217656811554,
+    "spectral_spread": 1616.9410222621987,
+    "spectral_rolloff_85": 1543.2449494949494,
+    "spectral_rolloff_95": 2434.6590909090905,
+    "spectral_entropy": 13.450355723398387,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.13488399621212122,
+    "fundamental_frequency": 168.42105263157896,
+    "periodicity_strength": 0.331163552914915,
+    "spectral_flux": 3.075436723617342e-10,
+    "frequency_stability": 3.2590951890246517e-10,
+    "filename": "Адриан-О3.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.352,
+    "dominant_frequencies": [
+      309.0533088235294,
+      428.079044117647,
+      560.8915441176471,
+      366.72794117647055,
+      260.56985294117646
+    ],
+    "dominant_amplitudes": [
+      332.65772112503834,
+      303.6887209516393,
+      212.9371803859943,
+      182.7598153856012,
+      155.1600149292807
+    ],
+    "frequency_band_energies": {
+      "very_low": 301683.80186472804,
+      "low": 13509391.601788178,
+      "mid_low": 5303395.716043696,
+      "mid": 2416652.819354453,
+      "mid_high": 924010.8429945275,
+      "high": 590044.6135720401,
+      "very_high": 1197901.611809283
+    },
+    "spectral_centroid": 2442.398470934235,
+    "spectral_spread": 2189.398052090643,
+    "spectral_rolloff_85": 1726.7922794117646,
+    "spectral_rolloff_95": 3979.319852941176,
+    "spectral_entropy": 14.248974410840109,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.17378504136029413,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.0752998774832684e-10,
+    "frequency_stability": 3.828937819712996e-10,
+    "filename": "Адриан-О2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.624,
+    "dominant_frequencies": [
+      244.11231884057966,
+      469.20289855072457,
+      728.4118357487922,
+      526.2681159420289,
+      987.0169082125602
+    ],
+    "dominant_amplitudes": [
+      866.1358444856746,
+      665.848387096659,
+      338.3458164311815,
+      261.7438277040418,
+      161.05583682157737
+    ],
+    "frequency_band_energies": {
+      "very_low": 17278220.48514206,
+      "low": 21200354.4925641,
+      "mid_low": 16182558.406531792,
+      "mid": 1126173.4543657159,
+      "mid_high": 188868.39143457086,
+      "high": 148178.93741027932,
+      "very_high": 38693.33276834253
+    },
+    "spectral_centroid": 1164.767280653965,
+    "spectral_spread": 1341.7789966245505,
+    "spectral_rolloff_85": 727.9589371980675,
+    "spectral_rolloff_95": 963.1642512077293,
+    "spectral_entropy": 13.456369396713733,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.07453955314009662,
+    "fundamental_frequency": 242.42424242424244,
+    "periodicity_strength": 0.7521083922430791,
+    "spectral_flux": 2.3143038717769328e-10,
+    "frequency_stability": 3.007914312288172e-10,
+    "filename": "bvxffgj.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.712,
+    "dominant_frequencies": [
+      391.97198275862064,
+      650.3232758620688,
+      440.46336206896547,
+      316.81034482758616,
+      764.8168103448274
+    ],
+    "dominant_amplitudes": [
+      405.98112846579596,
+      271.6564291544212,
+      251.33374143381306,
+      250.61409655188768,
+      180.30642261887076
+    ],
+    "frequency_band_energies": {
+      "very_low": 72869.14163281361,
+      "low": 9612806.619480936,
+      "mid_low": 6786708.097973378,
+      "mid": 275989.94554979267,
+      "mid_high": 78842.68743042334,
+      "high": 314420.9161930883,
+      "very_high": 495415.0948246576
+    },
+    "spectral_centroid": 1919.6567320814315,
+    "spectral_spread": 1903.0829201457493,
+    "spectral_rolloff_85": 765.3556034482758,
+    "spectral_rolloff_95": 2161.368534482758,
+    "spectral_entropy": 13.2720921745126,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.10120891702586207,
+    "fundamental_frequency": 355.55555555555554,
+    "periodicity_strength": 0.35138337288822213,
+    "spectral_flux": 6.882274054888523e-10,
+    "frequency_stability": 7.397070783848427e-10,
+    "filename": "ytwsfr.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.128,
+    "dominant_frequencies": [
+      287.3062015503876,
+      851.7441860465116,
+      950.0968992248062,
+      366.03682170542635,
+      476.2596899224806
+    ],
+    "dominant_amplitudes": [
+      307.8012524114877,
+      275.1535562908457,
+      252.7100224055618,
+      246.7062751729445,
+      232.33543684653318
+    ],
+    "frequency_band_energies": {
+      "very_low": 378240.4368810727,
+      "low": 8458321.006065313,
+      "mid_low": 11061199.30108446,
+      "mid": 1576127.170013231,
+      "mid_high": 69492.7797743207,
+      "high": 100755.68530081373,
+      "very_high": 167557.12049251195
+    },
+    "spectral_centroid": 1427.0544922392635,
+    "spectral_spread": 1475.211503980133,
+    "spectral_rolloff_85": 950.8236434108527,
+    "spectral_rolloff_95": 1321.705426356589,
+    "spectral_entropy": 13.182832490136258,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.09668725775193798,
+    "fundamental_frequency": 444.44444444444446,
+    "periodicity_strength": 0.3598927725279435,
+    "spectral_flux": 7.739547255383584e-10,
+    "frequency_stability": 7.139289793986054e-10,
+    "filename": "sgsgrhswg.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.848,
+    "dominant_frequencies": [
+      462.4297752808989,
+      390.80056179775283,
+      648.8764044943821,
+      199.43820224719101,
+      596.9101123595506
+    ],
+    "dominant_amplitudes": [
+      287.98726529606466,
+      282.93815830828714,
+      200.31926278928825,
+      161.63687376802343,
+      126.60216658814144
+    ],
+    "frequency_band_energies": {
+      "very_low": 683673.6260379062,
+      "low": 5342328.8352307435,
+      "mid_low": 2891222.754463719,
+      "mid": 1356995.455254465,
+      "mid_high": 70268.26380400425,
+      "high": 11671.233612111497,
+      "very_high": 26052.531312925075
+    },
+    "spectral_centroid": 1264.2239848056738,
+    "spectral_spread": 1235.1752660451234,
+    "spectral_rolloff_85": 989.4662921348315,
+    "spectral_rolloff_95": 1344.4522471910113,
+    "spectral_entropy": 12.564437766537637,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.08023174157303371,
+    "fundamental_frequency": 484.8484848484849,
+    "periodicity_strength": 0.3080134773488922,
+    "spectral_flux": 3.56409447154106e-10,
+    "frequency_stability": 3.531762324604072e-10,
+    "filename": "sgsgil.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.24,
+    "dominant_frequencies": [
+      278.125,
+      236.16071428571428,
+      410.2678571428571,
+      626.3392857142857,
+      559.375
+    ],
+    "dominant_amplitudes": [
+      447.2189363092567,
+      157.63149322649647,
+      156.2282810911378,
+      148.6896285152678,
+      137.22101309715214
+    ],
+    "frequency_band_energies": {
+      "very_low": 982890.3684215569,
+      "low": 3392738.562436484,
+      "mid_low": 1813487.7659445307,
+      "mid": 168400.7705380184,
+      "mid_high": 58818.76357686265,
+      "high": 3905.991491279733,
+      "very_high": 2285.888230433127
+    },
+    "spectral_centroid": 1038.1149350484197,
+    "spectral_spread": 1183.7776640844609,
+    "spectral_rolloff_85": 705.3571428571428,
+    "spectral_rolloff_95": 847.7678571428571,
+    "spectral_entropy": 11.928424878853361,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08032924107142857,
+    "fundamental_frequency": 271.1864406779661,
+    "periodicity_strength": 0.47881625163380603,
+    "spectral_flux": 2.8237851332437037e-10,
+    "frequency_stability": 6.763897420938074e-10,
+    "filename": "3454354.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.4008125,
+    "dominant_frequencies": [
+      253.42435193860706,
+      494.7128898407174,
+      453.3083478338464,
+      212.7336813456476,
+      773.836612680141
+    ],
+    "dominant_amplitudes": [
+      228.87882359353304,
+      212.69081005392727,
+      139.56210714298084,
+      109.0736477080093,
+      84.20404028294756
+    ],
+    "frequency_band_energies": {
+      "very_low": 756055.0555230811,
+      "low": 823211.8409977946,
+      "mid_low": 691540.3869367199,
+      "mid": 210518.91999483458,
+      "mid_high": 22689.345477508487,
+      "high": 6290.614711645618,
+      "very_high": 1406.5701592890848
+    },
+    "spectral_centroid": 1145.1461495124977,
+    "spectral_spread": 1187.8262599289708,
+    "spectral_rolloff_85": 809.5301833757194,
+    "spectral_rolloff_95": 1136.4832909472182,
+    "spectral_entropy": 11.407722344735287,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.06290991835095704,
+    "fundamental_frequency": 253.96825396825398,
+    "periodicity_strength": 0.5880304331560868,
+    "spectral_flux": 1.3014583739290221e-10,
+    "frequency_stability": 1.7847177087551394e-10,
+    "filename": "jghkjnkm.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.632,
+    "dominant_frequencies": [
+      427.55681818181824,
+      779.4744318181819,
+      212.5355113636364,
+      518.8210227272727,
+      1245.0284090909092
+    ],
+    "dominant_amplitudes": [
+      365.5736956399261,
+      357.8511955332265,
+      226.9950578913039,
+      216.24225496237923,
+      192.3508626876361
+    ],
+    "frequency_band_energies": {
+      "very_low": 3050419.984753518,
+      "low": 10788164.52090083,
+      "mid_low": 17884542.980367687,
+      "mid": 6251210.862231755,
+      "mid_high": 1771423.3133851427,
+      "high": 663367.7558843227,
+      "very_high": 191741.45077424846
+    },
+    "spectral_centroid": 1678.5601686137527,
+    "spectral_spread": 1598.670264662488,
+    "spectral_rolloff_85": 1257.4573863636365,
+    "spectral_rolloff_95": 2321.0227272727275,
+    "spectral_entropy": 14.143773321266407,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.16951127485795456,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.977763111612092e-10,
+    "frequency_stability": 4.878174387789952e-10,
+    "filename": "gaspar-zavarnitsyn-demo-21-08-2024-diktorov.net2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.08,
+    "dominant_frequencies": [
+      722.5961538461538,
+      302.88461538461536,
+      664.4230769230769,
+      615.3846153846154,
+      353.8461538461538
+    ],
+    "dominant_amplitudes": [
+      268.99216604045205,
+      177.76370904030492,
+      166.30367549616176,
+      135.66455607175595,
+      122.98678754962945
+    ],
+    "frequency_band_energies": {
+      "very_low": 4688.526193620286,
+      "low": 1250077.834612364,
+      "mid_low": 3609627.4543507933,
+      "mid": 626491.5185072848,
+      "mid_high": 13982.790318984229,
+      "high": 8889.255615241367,
+      "very_high": 24034.597615309234
+    },
+    "spectral_centroid": 1508.7783817204513,
+    "spectral_spread": 1683.593955102519,
+    "spectral_rolloff_85": 953.3653846153845,
+    "spectral_rolloff_95": 1230.7692307692307,
+    "spectral_entropy": 12.19090259419885,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.13677884615384617,
+    "fundamental_frequency": 347.82608695652175,
+    "periodicity_strength": 0.5169399678281508,
+    "spectral_flux": 5.240127186134831e-10,
+    "frequency_stability": 4.5217746972490716e-10,
+    "filename": "swhywer.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.984,
+    "dominant_frequencies": [
+      664.3145161290322,
+      583.6693548387096,
+      219.2540322580645,
+      623.4879032258065,
+      762.6008064516129
+    ],
+    "dominant_amplitudes": [
+      262.75726808056214,
+      153.11719743746247,
+      129.94075523519425,
+      121.59075142528908,
+      119.17740279742425
+    ],
+    "frequency_band_energies": {
+      "very_low": 320532.5325290737,
+      "low": 713184.3565370338,
+      "mid_low": 3562692.262172386,
+      "mid": 396903.4028480825,
+      "mid_high": 5038.003811471839,
+      "high": 12396.610879306714,
+      "very_high": 27660.505371492858
+    },
+    "spectral_centroid": 1403.6477792844694,
+    "spectral_spread": 1562.542542011622,
+    "spectral_rolloff_85": 940.5241935483871,
+    "spectral_rolloff_95": 1024.1935483870968,
+    "spectral_entropy": 12.056980893714814,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.12150327620967742,
+    "fundamental_frequency": 326.53061224489795,
+    "periodicity_strength": 0.38850458840485635,
+    "spectral_flux": 7.977232738641595e-10,
+    "frequency_stability": 6.159926386965947e-10,
+    "filename": "262626.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.144,
+    "dominant_frequencies": [
+      205.69029850746267,
+      759.794776119403,
+      379.66417910447757,
+      573.2276119402984,
+      495.8022388059701
+    ],
+    "dominant_amplitudes": [
+      314.5005185912616,
+      184.75024362466468,
+      137.70061850985158,
+      122.79195111337769,
+      109.21127089919327
+    ],
+    "frequency_band_energies": {
+      "very_low": 1592247.4688488322,
+      "low": 844444.0485589721,
+      "mid_low": 2287726.2017001864,
+      "mid": 909674.3022922009,
+      "mid_high": 136721.65480036748,
+      "high": 51665.19266341072,
+      "very_high": 61343.63356456495
+    },
+    "spectral_centroid": 1692.0182966586688,
+    "spectral_spread": 1570.4580350203134,
+    "spectral_rolloff_85": 1333.9552238805968,
+    "spectral_rolloff_95": 1896.9216417910445,
+    "spectral_entropy": 12.733668848401502,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.07847481343283583,
+    "fundamental_frequency": 190.47619047619048,
+    "periodicity_strength": 0.41419440862235357,
+    "spectral_flux": 1.5611139444767315e-10,
+    "frequency_stability": 1.8595821855314838e-10,
+    "filename": "nmkkj.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.472,
+    "dominant_frequencies": [
+      320.5409356725146,
+      638.8888888888888,
+      401.13304093567245,
+      715.4605263157894,
+      594.8464912280701
+    ],
+    "dominant_amplitudes": [
+      583.5022479857965,
+      350.42196182919,
+      251.2979296782384,
+      238.45118937084368,
+      236.74264125290236
+    ],
+    "frequency_band_energies": {
+      "very_low": 307363.5125566002,
+      "low": 17387707.322651625,
+      "mid_low": 18187647.496103343,
+      "mid": 1724915.237343776,
+      "mid_high": 256596.3394085013,
+      "high": 236056.97434808762,
+      "very_high": 226483.685012444
+    },
+    "spectral_centroid": 1582.152312049217,
+    "spectral_spread": 1734.3223786039914,
+    "spectral_rolloff_85": 766.6301169590643,
+    "spectral_rolloff_95": 1233.0043859649122,
+    "spectral_entropy": 13.852272847304066,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.10839272660818713,
+    "fundamental_frequency": 326.53061224489795,
+    "periodicity_strength": 0.556793659457988,
+    "spectral_flux": 4.6251403301463607e-10,
+    "frequency_stability": 4.895508731927153e-10,
+    "filename": "jgvjln.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.744,
+    "dominant_frequencies": [
+      525.9081196581196,
+      250.53418803418802,
+      583.8675213675214,
+      202.19017094017093,
+      390.22435897435895
+    ],
+    "dominant_amplitudes": [
+      467.2522769274476,
+      461.7285240006885,
+      158.90588270285892,
+      134.23444641968644,
+      131.0196665686813
+    ],
+    "frequency_band_energies": {
+      "very_low": 2009368.611313322,
+      "low": 5737562.225692153,
+      "mid_low": 9433381.103999725,
+      "mid": 402987.4196182885,
+      "mid_high": 216235.44119585562,
+      "high": 80764.14179527221,
+      "very_high": 62149.50731435676
+    },
+    "spectral_centroid": 1476.90578775963,
+    "spectral_spread": 1657.3478600076858,
+    "spectral_rolloff_85": 599.3589743589744,
+    "spectral_rolloff_95": 866.9871794871794,
+    "spectral_entropy": 13.097648078457738,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1391726762820513,
+    "fundamental_frequency": 262.2950819672131,
+    "periodicity_strength": 0.6933124598178033,
+    "spectral_flux": 3.103989313291685e-10,
+    "frequency_stability": 5.30638314032745e-10,
+    "filename": "vfxzdgh.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.552,
+    "dominant_frequencies": [
+      234.51576576576576,
+      469.31306306306305,
+      699.6058558558559,
+      935.8108108108108,
+      527.8716216216217
+    ],
+    "dominant_amplitudes": [
+      636.3558947499071,
+      380.3906934818969,
+      255.04794699956255,
+      220.91775101421348,
+      176.27115158914563
+    ],
+    "frequency_band_energies": {
+      "very_low": 4669581.143939712,
+      "low": 4039191.949949147,
+      "mid_low": 6834869.6638816185,
+      "mid": 507077.74535578163,
+      "mid_high": 62107.56367803015,
+      "high": 23750.36137117181,
+      "very_high": 12803.723264698081
+    },
+    "spectral_centroid": 1142.262158689565,
+    "spectral_spread": 1331.7743233188367,
+    "spectral_rolloff_85": 777.8716216216217,
+    "spectral_rolloff_95": 943.6936936936937,
+    "spectral_entropy": 12.634824178604307,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.0815209740990991,
+    "fundamental_frequency": 238.80597014925374,
+    "periodicity_strength": 0.6358745999776187,
+    "spectral_flux": 2.2470721407435203e-10,
+    "frequency_stability": 2.60270343966065e-10,
+    "filename": "jnhvh.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.336,
+    "dominant_frequencies": [
+      495.2651515151515,
+      641.4141414141413,
+      234.37499999999997,
+      431.02904040404036,
+      592.645202020202
+    ],
+    "dominant_amplitudes": [
+      247.7748836182434,
+      227.77834355281558,
+      205.3655878263382,
+      199.20515141116584,
+      194.55637918590827
+    ],
+    "frequency_band_energies": {
+      "very_low": 1363028.5375890466,
+      "low": 11058470.691179948,
+      "mid_low": 15814943.856867703,
+      "mid": 9617989.197256392,
+      "mid_high": 4169375.7103334665,
+      "high": 3988116.346218355,
+      "very_high": 5374607.273651145
+    },
+    "spectral_centroid": 2591.230448301654,
+    "spectral_spread": 1964.0882324415434,
+    "spectral_rolloff_85": 3591.2247474747473,
+    "spectral_rolloff_95": 4851.957070707071,
+    "spectral_entropy": 14.986973801373871,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.2381234217171717,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 2.2261955061428186e-10,
+    "frequency_stability": 1.9124657674810052e-10,
+    "filename": "bogdan-zhuravkov-demo-09-08-2020-diktorov.net2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 9.358625,
+    "dominant_frequencies": [
+      635.3497442199041,
+      292.67119902763494,
+      252.38750350612403,
+      582.457358853464,
+      941.5913128264034
+    ],
+    "dominant_amplitudes": [
+      617.9311231406522,
+      562.476016487078,
+      362.3315972888814,
+      350.2307773643279,
+      342.45212889534685
+    ],
+    "frequency_band_energies": {
+      "very_low": 5242772.970855959,
+      "low": 38643240.19392058,
+      "mid_low": 59830264.57998464,
+      "mid": 7719996.018048423,
+      "mid_high": 427375.655320044,
+      "high": 127321.05527022966,
+      "very_high": 116385.7920088266
+    },
+    "spectral_centroid": 1156.510109288276,
+    "spectral_spread": 1312.4650239162522,
+    "spectral_rolloff_85": 935.8212344227918,
+    "spectral_rolloff_95": 1087.5529257770238,
+    "spectral_entropy": 14.243171240842386,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08646769691060385,
+    "fundamental_frequency": 307.6923076923077,
+    "periodicity_strength": 0.4768411723867838,
+    "spectral_flux": 4.054730340454382e-10,
+    "frequency_stability": 4.1385331604330854e-10,
+    "filename": "terxfhc.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.0834375,
+    "dominant_frequencies": [
+      293.8279112192156,
+      250.36991993513735,
+      589.2773892773893,
+      129.72534711665148,
+      508.8476740650654
+    ],
+    "dominant_amplitudes": [
+      760.852094686928,
+      404.1928570979967,
+      214.43972164761826,
+      109.29209152304928,
+      109.09512363377331
+    ],
+    "frequency_band_energies": {
+      "very_low": 908242.4083984795,
+      "low": 8515868.488494676,
+      "mid_low": 2543984.0537473485,
+      "mid": 157406.688490626,
+      "mid_high": 21400.37698377781,
+      "high": 9913.68308821971,
+      "very_high": 12900.718225024817
+    },
+    "spectral_centroid": 1161.690246494113,
+    "spectral_spread": 1494.247375925969,
+    "spectral_rolloff_85": 587.9801358062227,
+    "spectral_rolloff_95": 623.9789196310936,
+    "spectral_entropy": 12.193632612376996,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.07561568865916692,
+    "fundamental_frequency": 290.90909090909093,
+    "periodicity_strength": 0.7879773686842741,
+    "spectral_flux": 5.692614293451261e-10,
+    "frequency_stability": 5.900180399982328e-10,
+    "filename": "sdgerhr.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.624,
+    "dominant_frequencies": [
+      516.4553140096617,
+      234.4504830917874,
+      469.957729468599,
+      275.6642512077294,
+      559.1787439613526
+    ],
+    "dominant_amplitudes": [
+      454.24087150664127,
+      400.567466987691,
+      335.99297498703885,
+      201.55182603077827,
+      194.45798779956186
+    ],
+    "frequency_band_energies": {
+      "very_low": 8755252.480487743,
+      "low": 18681950.912523318,
+      "mid_low": 17992867.788382426,
+      "mid": 1624575.7974007018,
+      "mid_high": 2078308.1572954857,
+      "high": 2371859.051048205,
+      "very_high": 4658231.196667703
+    },
+    "spectral_centroid": 2744.1531487376733,
+    "spectral_spread": 2420.7766489533747,
+    "spectral_rolloff_85": 2069.293478260869,
+    "spectral_rolloff_95": 6084.842995169081,
+    "spectral_entropy": 14.91263230490419,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.14593712258454106,
+    "fundamental_frequency": 253.96825396825398,
+    "periodicity_strength": 0.4814720507281915,
+    "spectral_flux": 4.5243503437008433e-10,
+    "frequency_stability": 6.18221265712203e-10,
+    "filename": "khjclksdc.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.848,
+    "dominant_frequencies": [
+      603.5814606741574,
+      292.83707865168543,
+      659.7612359550562,
+      562.8511235955057,
+      334.26966292134836
+    ],
+    "dominant_amplitudes": [
+      388.76227788572095,
+      310.8375676826381,
+      191.56355464321192,
+      181.12826381175208,
+      165.71436327429777
+    ],
+    "frequency_band_energies": {
+      "very_low": 134335.50927324474,
+      "low": 3140442.7649426856,
+      "mid_low": 6592424.415480942,
+      "mid": 117104.52618194434,
+      "mid_high": 140977.9370770324,
+      "high": 142277.0040481625,
+      "very_high": 114651.8179436036
+    },
+    "spectral_centroid": 1973.5701821162593,
+    "spectral_spread": 2032.2523796945322,
+    "spectral_rolloff_85": 659.7612359550562,
+    "spectral_rolloff_95": 998.5955056179776,
+    "spectral_entropy": 13.050901263540672,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.14725245786516855,
+    "fundamental_frequency": 301.8867924528302,
+    "periodicity_strength": 0.7283683326502238,
+    "spectral_flux": 3.246955717138318e-10,
+    "frequency_stability": 3.044584517251098e-10,
+    "filename": "mnkclkds.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.232,
+    "dominant_frequencies": [
+      294.52433628318585,
+      632.8816371681415,
+      688.6061946902654,
+      569.6902654867256,
+      451.6039823008849
+    ],
+    "dominant_amplitudes": [
+      499.4614944955352,
+      477.6825011833476,
+      316.6962197407136,
+      278.2951544103569,
+      218.5701921353457
+    ],
+    "frequency_band_energies": {
+      "very_low": 2660552.1343972846,
+      "low": 23533921.649233997,
+      "mid_low": 36669755.09810158,
+      "mid": 2909016.0028349524,
+      "mid_high": 362447.61783907685,
+      "high": 292798.5246059435,
+      "very_high": 517850.3115744497
+    },
+    "spectral_centroid": 1519.2416077375726,
+    "spectral_spread": 1688.1910598526206,
+    "spectral_rolloff_85": 854.950221238938,
+    "spectral_rolloff_95": 1080.337389380531,
+    "spectral_entropy": 14.22779088572455,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.12418763827433628,
+    "fundamental_frequency": 313.72549019607845,
+    "periodicity_strength": 0.4339701782632703,
+    "spectral_flux": 3.163283503804157e-10,
+    "frequency_stability": 3.609382756962938e-10,
+    "filename": "pijk.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.616,
+    "dominant_frequencies": [
+      573.7920168067226,
+      793.5924369747897,
+      517.2006302521007,
+      734.7689075630251,
+      966.517857142857
+    ],
+    "dominant_amplitudes": [
+      548.0625874565714,
+      340.8452322113572,
+      309.8454428469657,
+      294.3361769111821,
+      278.1074808960536
+    ],
+    "frequency_band_energies": {
+      "very_low": 1215535.1964422688,
+      "low": 5208719.892647801,
+      "mid_low": 50821689.577158585,
+      "mid": 11836810.73822989,
+      "mid_high": 2350449.3692374183,
+      "high": 1443587.6807304313,
+      "very_high": 1367620.8836981829
+    },
+    "spectral_centroid": 2017.8730383802067,
+    "spectral_spread": 1835.440178342185,
+    "spectral_rolloff_85": 1237.1323529411764,
+    "spectral_rolloff_95": 2427.3897058823527,
+    "spectral_entropy": 14.800118640980434,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.17546940651260504,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.3367212987470746e-10,
+    "frequency_stability": 4.911256853007253e-10,
+    "filename": "M15_09_02.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 8.736,
+    "dominant_frequencies": [
+      495.42124542124543,
+      535.8287545787546,
+      347.2985347985348,
+      429.60164835164835,
+      389.30860805860806
+    ],
+    "dominant_amplitudes": [
+      536.0860088015966,
+      448.65505214637443,
+      427.6966157708621,
+      395.3093067926162,
+      291.6932138087312
+    ],
+    "frequency_band_energies": {
+      "very_low": 434184.8970836517,
+      "low": 42927626.68254298,
+      "mid_low": 36648633.83774292,
+      "mid": 9245223.599570079,
+      "mid_high": 2262477.000889332,
+      "high": 2310690.309202345,
+      "very_high": 3857807.6683848584
+    },
+    "spectral_centroid": 2351.7398366332277,
+    "spectral_spread": 2161.85817728777,
+    "spectral_rolloff_85": 1234.4322344322343,
+    "spectral_rolloff_95": 3538.3470695970695,
+    "spectral_entropy": 15.167636027456668,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.15488352793040294,
+    "fundamental_frequency": 500.0,
+    "periodicity_strength": 0.3573708773156776,
+    "spectral_flux": 7.70233349835939e-10,
+    "frequency_stability": 7.819150127007021e-10,
+    "filename": "Адриан-О1.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.912,
+    "dominant_frequencies": [
+      314.90384615384613,
+      671.7032967032967,
+      358.8598901098901,
+      593.4065934065934,
+      1456.043956043956
+    ],
+    "dominant_amplitudes": [
+      302.8669258838523,
+      214.74057728201774,
+      213.9242808772032,
+      200.55781185440506,
+      132.78391002779247
+    ],
+    "frequency_band_energies": {
+      "very_low": 156087.53607086258,
+      "low": 4480366.615051553,
+      "mid_low": 4698451.735929123,
+      "mid": 1346145.158621359,
+      "mid_high": 40174.39471267413,
+      "high": 103919.74458646528,
+      "very_high": 28927.889937464148
+    },
+    "spectral_centroid": 1469.6016781999776,
+    "spectral_spread": 1584.2236040220446,
+    "spectral_rolloff_85": 926.510989010989,
+    "spectral_rolloff_95": 1456.7307692307693,
+    "spectral_entropy": 12.649941084092061,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1143543956043956,
+    "fundamental_frequency": 313.72549019607845,
+    "periodicity_strength": 0.5580291634459955,
+    "spectral_flux": 4.649288905074968e-10,
+    "frequency_stability": 4.688090129103184e-10,
+    "filename": "feawerry.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 11.488,
+    "dominant_frequencies": [
+      230.15320334261838,
+      722.5800835654596,
+      491.9045961002786,
+      682.1030640668524,
+      445.94359331476323
+    ],
+    "dominant_amplitudes": [
+      949.315669177183,
+      638.4595320007868,
+      629.0370356259513,
+      440.00549580955504,
+      304.41983541780917
+    ],
+    "frequency_band_energies": {
+      "very_low": 37619867.15443132,
+      "low": 48217148.38476868,
+      "mid_low": 71370189.69724128,
+      "mid": 6234458.701985232,
+      "mid_high": 4033299.676072834,
+      "high": 800592.1732662068,
+      "very_high": 651365.507542252
+    },
+    "spectral_centroid": 1575.6204243246282,
+    "spectral_spread": 1551.0006223304126,
+    "spectral_rolloff_85": 736.6817548746518,
+    "spectral_rolloff_95": 1540.389972144847,
+    "spectral_entropy": 14.831841836643395,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.08837482590529248,
+    "fundamental_frequency": 242.42424242424244,
+    "periodicity_strength": 0.6938505633920862,
+    "spectral_flux": 3.7035234129549243e-10,
+    "frequency_stability": 5.333235303853312e-10,
+    "filename": "M16_06_03.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.704,
+    "dominant_frequencies": [
+      807.6105442176871,
+      510.8418367346939,
+      585.8843537414966,
+      433.6734693877551,
+      860.969387755102
+    ],
+    "dominant_amplitudes": [
+      298.4961706062795,
+      264.6179631129984,
+      237.6747090937911,
+      210.2132844493835,
+      186.1813521842459
+    ],
+    "frequency_band_energies": {
+      "very_low": 31377.251631773906,
+      "low": 3639879.4625587156,
+      "mid_low": 14223257.44540063,
+      "mid": 3795335.2917561773,
+      "mid_high": 2958667.0858970666,
+      "high": 2163327.539569042,
+      "very_high": 1511506.7856818894
+    },
+    "spectral_centroid": 2352.006304274773,
+    "spectral_spread": 1733.7057932218497,
+    "spectral_rolloff_85": 2915.603741496599,
+    "spectral_rolloff_95": 4038.90306122449,
+    "spectral_entropy": 14.342578733076813,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1461389243197279,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 3.36977551036735e-10,
+    "frequency_stability": 3.542490484821399e-10,
+    "filename": "lev4.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 8.576,
+    "dominant_frequencies": [
+      481.3432835820895,
+      927.4720149253731,
+      696.4785447761193,
+      536.8470149253731,
+      786.0307835820895
+    ],
+    "dominant_amplitudes": [
+      880.6724453842322,
+      482.2100396905665,
+      449.8415162253792,
+      380.7576430687844,
+      308.449861587934
+    ],
+    "frequency_band_energies": {
+      "very_low": 1843016.2839494462,
+      "low": 17656684.78587829,
+      "mid_low": 58841944.330533415,
+      "mid": 10540880.845202204,
+      "mid_high": 4644918.162397251,
+      "high": 263957.95587605744,
+      "very_high": 349745.7508552728
+    },
+    "spectral_centroid": 1652.8720619354501,
+    "spectral_spread": 1461.9639542853286,
+    "spectral_rolloff_85": 1034.86473880597,
+    "spectral_rolloff_95": 2151.819029850746,
+    "spectral_entropy": 14.432866759190233,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11483354710820895,
+    "fundamental_frequency": 242.42424242424244,
+    "periodicity_strength": 0.543303068950412,
+    "spectral_flux": 7.426116791406866e-10,
+    "frequency_stability": 6.786225005417356e-10,
+    "filename": "M17_02_05.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 12.64,
+    "dominant_frequencies": [
+      531.9620253164557,
+      462.8955696202531,
+      598.4177215189873,
+      638.8449367088607,
+      315.50632911392404
+    ],
+    "dominant_amplitudes": [
+      780.9736028059065,
+      650.9787466071234,
+      588.5424182575744,
+      371.3966901416413,
+      288.7587813685009
+    ],
+    "frequency_band_energies": {
+      "very_low": 2660442.0646331212,
+      "low": 55860341.006999806,
+      "mid_low": 141200286.69227508,
+      "mid": 1959333.5117922374,
+      "mid_high": 1812552.704512177,
+      "high": 741188.5291875327,
+      "very_high": 270938.01985914743
+    },
+    "spectral_centroid": 1205.8468324414844,
+    "spectral_spread": 1279.2705779103371,
+    "spectral_rolloff_85": 648.3386075949367,
+    "spectral_rolloff_95": 808.5443037974683,
+    "spectral_entropy": 14.464441018848529,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08860759493670886,
+    "fundamental_frequency": 551.7241379310345,
+    "periodicity_strength": 0.495380041824139,
+    "spectral_flux": 9.97901657224086e-10,
+    "frequency_stability": 8.422711414210326e-10,
+    "filename": "M12_08_04.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.48,
+    "dominant_frequencies": [
+      603.125,
+      513.8392857142857,
+      248.2142857142857,
+      554.6875,
+      720.7589285714286
+    ],
+    "dominant_amplitudes": [
+      455.542490279349,
+      401.86612949708933,
+      267.5190577237916,
+      206.59928045923394,
+      160.46883820137037
+    ],
+    "frequency_band_energies": {
+      "very_low": 1237487.4779098185,
+      "low": 4742306.214585526,
+      "mid_low": 18056415.342438273,
+      "mid": 589316.3005198359,
+      "mid_high": 350430.6156486324,
+      "high": 151161.68010297592,
+      "very_high": 562995.4071842945
+    },
+    "spectral_centroid": 2246.0702516782476,
+    "spectral_spread": 2258.1112173334036,
+    "spectral_rolloff_85": 633.4821428571428,
+    "spectral_rolloff_95": 1664.2857142857142,
+    "spectral_entropy": 13.736284380694851,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.21259765625,
+    "fundamental_frequency": 571.4285714285714,
+    "periodicity_strength": 0.528952363111533,
+    "spectral_flux": 8.684067107025333e-10,
+    "frequency_stability": 9.219026666434325e-10,
+    "filename": "koce.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.24,
+    "dominant_frequencies": [
+      270.5357142857143,
+      575.0,
+      529.0178571428571,
+      615.625,
+      833.0357142857142
+    ],
+    "dominant_amplitudes": [
+      335.2083983258111,
+      306.9869814355606,
+      191.17305759978967,
+      99.62215857749347,
+      56.672409764460994
+    ],
+    "frequency_band_energies": {
+      "very_low": 49429.39858166047,
+      "low": 1619888.0719605538,
+      "mid_low": 4457103.122824412,
+      "mid": 132241.79570636508,
+      "mid_high": 38148.460987647864,
+      "high": 35656.87508424651,
+      "very_high": 90059.58975492246
+    },
+    "spectral_centroid": 2124.320817505612,
+    "spectral_spread": 2243.0054944022886,
+    "spectral_rolloff_85": 601.3392857142857,
+    "spectral_rolloff_95": 870.0892857142857,
+    "spectral_entropy": 12.540030676177153,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.20220424107142856,
+    "fundamental_frequency": 571.4285714285714,
+    "periodicity_strength": 0.3704755694523362,
+    "spectral_flux": 1.0249877630259158e-09,
+    "frequency_stability": 8.045927424813982e-10,
+    "filename": "mlgfk.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.96325,
+    "dominant_frequencies": [
+      249.58614542213166,
+      541.4491277218897,
+      501.20972876607664,
+      823.6342798930344,
+      349.42060359098434
+    ],
+    "dominant_amplitudes": [
+      280.7052593959349,
+      248.71955051539763,
+      139.24991328156048,
+      130.04746490643035,
+      129.16920766041963
+    ],
+    "frequency_band_energies": {
+      "very_low": 538997.3157354015,
+      "low": 1779942.1229741997,
+      "mid_low": 2233662.6027024696,
+      "mid": 341195.3516852308,
+      "mid_high": 28189.56098136403,
+      "high": 6827.1694434565325,
+      "very_high": 4761.6250074942545
+    },
+    "spectral_centroid": 1216.962343932824,
+    "spectral_spread": 1390.429120142869,
+    "spectral_rolloff_85": 854.1958487202343,
+    "spectral_rolloff_95": 1123.6470138800457,
+    "spectral_entropy": 11.84973259127763,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08391697440468611,
+    "fundamental_frequency": 271.1864406779661,
+    "periodicity_strength": 0.6527533776316818,
+    "spectral_flux": 1.7163108202912205e-10,
+    "frequency_stability": 2.2270752320659303e-10,
+    "filename": "dggge.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 9.184,
+    "dominant_frequencies": [
+      311.62891986062715,
+      606.2717770034843,
+      385.88850174216026,
+      651.567944250871,
+      747.1689895470383
+    ],
+    "dominant_amplitudes": [
+      616.7320654278336,
+      519.9152311633212,
+      378.6180874782704,
+      364.80425114981335,
+      320.1121950527448
+    ],
+    "frequency_band_energies": {
+      "very_low": 2762889.465735457,
+      "low": 48036624.60535323,
+      "mid_low": 48544559.681074716,
+      "mid": 5601902.739879784,
+      "mid_high": 1701730.114780791,
+      "high": 896548.2089553569,
+      "very_high": 418441.57778108487
+    },
+    "spectral_centroid": 1525.7165073906415,
+    "spectral_spread": 1591.487868178842,
+    "spectral_rolloff_85": 789.5252613240418,
+    "spectral_rolloff_95": 1287.238675958188,
+    "spectral_entropy": 14.618471841954836,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.10430504137630663,
+    "fundamental_frequency": 320.0,
+    "periodicity_strength": 0.5020985415254776,
+    "spectral_flux": 2.6770871236141887e-10,
+    "frequency_stability": 3.246835827001472e-10,
+    "filename": "esxxcb.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.952,
+    "dominant_frequencies": [
+      291.8346774193548,
+      521.0013440860215,
+      334.005376344086,
+      390.625,
+      250.5040322580645
+    ],
+    "dominant_amplitudes": [
+      409.08374428762863,
+      399.5336809742871,
+      331.3633658783652,
+      269.36971768668883,
+      226.94518818959685
+    ],
+    "frequency_band_energies": {
+      "very_low": 1975762.284188336,
+      "low": 20569604.132103283,
+      "mid_low": 15305281.47795762,
+      "mid": 4086331.802639585,
+      "mid_high": 449564.75982076675,
+      "high": 472157.47674165585,
+      "very_high": 2486963.421334436
+    },
+    "spectral_centroid": 2376.513239064636,
+    "spectral_spread": 2319.0765369243545,
+    "spectral_rolloff_85": 1131.3844086021504,
+    "spectral_rolloff_95": 4475.9744623655915,
+    "spectral_entropy": 14.607456464845832,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.16403099798387097,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 3.439407910270895e-10,
+    "frequency_stability": 3.306048825192578e-10,
+    "filename": "Адриан-О5.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 9.568,
+    "dominant_frequencies": [
+      433.52842809364546,
+      543.0602006688963,
+      502.7173913043478,
+      892.2449832775919,
+      302.0484949832776
+    ],
+    "dominant_amplitudes": [
+      458.19583061978113,
+      341.8401464388932,
+      339.31738007666604,
+      244.71501382347324,
+      236.99492864570612
+    ],
+    "frequency_band_energies": {
+      "very_low": 727874.9967235185,
+      "low": 34523165.970070034,
+      "mid_low": 44151060.445876606,
+      "mid": 15737270.735447805,
+      "mid_high": 8217002.569965407,
+      "high": 7338830.536976494,
+      "very_high": 6484487.304407883
+    },
+    "spectral_centroid": 2312.0969018074125,
+    "spectral_spread": 1830.3745505819095,
+    "spectral_rolloff_85": 2741.32525083612,
+    "spectral_rolloff_95": 4317.203177257525,
+    "spectral_entropy": 15.37898510235236,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.2070181856187291,
+    "fundamental_frequency": 484.8484848484849,
+    "periodicity_strength": 0.3041683514801467,
+    "spectral_flux": 5.34361116858535e-10,
+    "frequency_stability": 4.95642304305909e-10,
+    "filename": "kirill-maleev-demo-14-04-2025-diktorov.net2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.896,
+    "dominant_frequencies": [
+      599.468954248366,
+      337.2140522875817,
+      685.8660130718954,
+      273.08006535947715,
+      558.4150326797386
+    ],
+    "dominant_amplitudes": [
+      378.85467538933625,
+      294.21939255577274,
+      282.1921679135435,
+      263.8983701958374,
+      258.6413013943833
+    ],
+    "frequency_band_energies": {
+      "very_low": 437625.847384418,
+      "low": 7000861.157204083,
+      "mid_low": 19663932.55861695,
+      "mid": 3085687.9855419146,
+      "mid_high": 327611.6078901844,
+      "high": 115546.65371719559,
+      "very_high": 51380.70477359981
+    },
+    "spectral_centroid": 1298.09305733667,
+    "spectral_spread": 1343.4171552351352,
+    "spectral_rolloff_85": 840.4820261437908,
+    "spectral_rolloff_95": 1159.5179738562092,
+    "spectral_entropy": 13.481363384278227,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.09089052287581699,
+    "fundamental_frequency": 313.72549019607845,
+    "periodicity_strength": 0.329986056399899,
+    "spectral_flux": 5.277326068264865e-10,
+    "frequency_stability": 4.2971318301416727e-10,
+    "filename": "wegtwghh.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.5550625,
+    "dominant_frequencies": [
+      968.4780506671824,
+      621.0861271777923,
+      701.5347831437563,
+      927.9724336773263,
+      351.0486805787521
+    ],
+    "dominant_amplitudes": [
+      319.2535830055908,
+      256.5398837887414,
+      249.18190507584433,
+      211.00088142372812,
+      207.99103922136877
+    ],
+    "frequency_band_energies": {
+      "very_low": 155129.82073891145,
+      "low": 1822118.4885167154,
+      "mid_low": 11758325.729973229,
+      "mid": 2118539.7539338665,
+      "mid_high": 195228.34833952977,
+      "high": 112114.88665909026,
+      "very_high": 15799.284031508521
+    },
+    "spectral_centroid": 1345.9231780278988,
+    "spectral_spread": 1208.754729305968,
+    "spectral_rolloff_85": 1001.6701534783143,
+    "spectral_rolloff_95": 1450.0448304354704,
+    "spectral_entropy": 12.979777648573682,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08986304741477823,
+    "fundamental_frequency": 326.53061224489795,
+    "periodicity_strength": 0.5077935408606405,
+    "spectral_flux": 6.14105173498574e-10,
+    "frequency_stability": 6.892455741760278e-10,
+    "filename": "videoplayback_1.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.784,
+    "dominant_frequencies": [
+      622.485632183908,
+      318.9655172413793,
+      789.5114942528735,
+      241.37931034482756,
+      487.4281609195402
+    ],
+    "dominant_amplitudes": [
+      284.3533311541338,
+      230.4816472708151,
+      169.75624777184993,
+      154.96890441798308,
+      151.1849222264006
+    ],
+    "frequency_band_energies": {
+      "very_low": 506740.0868955214,
+      "low": 2590352.839825929,
+      "mid_low": 4826481.60352734,
+      "mid": 1719700.2514863852,
+      "mid_high": 168273.5707640316,
+      "high": 87836.25167605397,
+      "very_high": 21455.913486351194
+    },
+    "spectral_centroid": 1309.4175341254956,
+    "spectral_spread": 1100.332462061732,
+    "spectral_rolloff_85": 1120.6896551724137,
+    "spectral_rolloff_95": 1784.8419540229884,
+    "spectral_entropy": 12.801304694562507,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08494971264367816,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 2.906761204495803e-10,
+    "frequency_stability": 3.0261618950916164e-10,
+    "filename": "M14_07_07.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.536,
+    "dominant_frequencies": [
+      1003.2552083333333,
+      956.3802083333333,
+      61.84895833333333,
+      1502.6041666666665,
+      247.39583333333331
+    ],
+    "dominant_amplitudes": [
+      254.5293858129885,
+      179.84041535336692,
+      133.69252013592285,
+      126.42580283777403,
+      120.20424765292302
+    ],
+    "frequency_band_energies": {
+      "very_low": 86259.31922918627,
+      "low": 418934.1874575845,
+      "mid_low": 1088388.689387243,
+      "mid": 1359181.1000633268,
+      "mid_high": 25152.824323206845,
+      "high": 35204.586025311524,
+      "very_high": 6782.268279585246
+    },
+    "spectral_centroid": 1614.901864748553,
+    "spectral_spread": 1303.5802097463884,
+    "spectral_rolloff_85": 1452.4739583333333,
+    "spectral_rolloff_95": 1541.6666666666665,
+    "spectral_entropy": 11.653505520980591,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.10262044270833333,
+    "fundamental_frequency": 484.8484848484849,
+    "periodicity_strength": 0.7686208961732945,
+    "spectral_flux": 4.59774126007899e-10,
+    "frequency_stability": 4.737940379314608e-10,
+    "filename": "rrtj.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.88075,
+    "dominant_frequencies": [
+      294.03163631529975,
+      596.5705170809517,
+      663.0333643493287,
+      229.16389738136382,
+      706.1012893792371
+    ],
+    "dominant_amplitudes": [
+      365.93391336442636,
+      198.7101690715271,
+      129.95258931808718,
+      124.70525169142527,
+      121.92944070167385
+    ],
+    "frequency_band_energies": {
+      "very_low": 319170.10979084356,
+      "low": 1622526.4479584564,
+      "mid_low": 2162859.2898552627,
+      "mid": 214557.9754942216,
+      "mid_high": 76067.89559225904,
+      "high": 22392.936423430117,
+      "very_high": 110067.877438191
+    },
+    "spectral_centroid": 2065.8602185359223,
+    "spectral_spread": 2181.1897182965376,
+    "spectral_rolloff_85": 876.7778811644291,
+    "spectral_rolloff_95": 1866.8084540741727,
+    "spectral_entropy": 12.650659576657649,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1351023527847933,
+    "fundamental_frequency": 301.8867924528302,
+    "periodicity_strength": 0.494209550443804,
+    "spectral_flux": 1.920623389140157e-10,
+    "frequency_stability": 2.419810911877144e-10,
+    "filename": "oikghb.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.576,
+    "dominant_frequencies": [
+      234.04720279720277,
+      466.5646853146853,
+      507.86713286713285,
+      674.8251748251748,
+      751.3111888111888
+    ],
+    "dominant_amplitudes": [
+      876.0040368634233,
+      382.7760321232705,
+      254.3403838233408,
+      202.09045737605575,
+      201.09169148708088
+    ],
+    "frequency_band_energies": {
+      "very_low": 9420335.76526108,
+      "low": 6796295.60059302,
+      "mid_low": 9240382.628869142,
+      "mid": 1078799.2614110487,
+      "mid_high": 210717.87543044367,
+      "high": 45278.19596640296,
+      "very_high": 11107.098386601961
+    },
+    "spectral_centroid": 1119.6387851293125,
+    "spectral_spread": 1193.8750891209254,
+    "spectral_rolloff_85": 764.4230769230769,
+    "spectral_rolloff_95": 1001.0926573426573,
+    "spectral_entropy": 12.976292954772813,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.07066761363636363,
+    "fundamental_frequency": 238.80597014925374,
+    "periodicity_strength": 0.7268743197569265,
+    "spectral_flux": 1.761682621493712e-10,
+    "frequency_stability": 2.314276256500991e-10,
+    "filename": "knhgcxhf.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.992,
+    "dominant_frequencies": [
+      696.7147435897436,
+      537.4599358974359,
+      817.1073717948718,
+      253.40544871794873,
+      652.6442307692308
+    ],
+    "dominant_amplitudes": [
+      375.19476731741344,
+      327.3755448344554,
+      326.3078959891817,
+      293.8285111849115,
+      238.81784246762712
+    ],
+    "frequency_band_energies": {
+      "very_low": 1226036.0509872083,
+      "low": 4451154.229769155,
+      "mid_low": 22829233.482885562,
+      "mid": 2757071.2994279955,
+      "mid_high": 401215.4178088039,
+      "high": 150797.88617421023,
+      "very_high": 82171.6579066387
+    },
+    "spectral_centroid": 1310.1903925368026,
+    "spectral_spread": 1172.0103835846505,
+    "spectral_rolloff_85": 898.036858974359,
+    "spectral_rolloff_95": 1165.0641025641025,
+    "spectral_entropy": 13.420488396588954,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.08463541666666667,
+    "fundamental_frequency": 135.59322033898306,
+    "periodicity_strength": 0.3090477929854511,
+    "spectral_flux": 5.292039195749203e-10,
+    "frequency_stability": 5.05837556838389e-10,
+    "filename": "M16_10_05.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.416,
+    "dominant_frequencies": [
+      256.11413043478257,
+      748.641304347826,
+      524.230072463768,
+      791.213768115942,
+      670.2898550724638
+    ],
+    "dominant_amplitudes": [
+      513.8171131006858,
+      396.7945331596873,
+      316.6519565592576,
+      216.33194398707627,
+      157.10302710979042
+    ],
+    "frequency_band_energies": {
+      "very_low": 4139097.912772438,
+      "low": 5092752.401843011,
+      "mid_low": 14505828.36085194,
+      "mid": 1077099.5057614557,
+      "mid_high": 91979.87947170172,
+      "high": 38510.825391087754,
+      "very_high": 16089.680406748254
+    },
+    "spectral_centroid": 1139.561713084133,
+    "spectral_spread": 1289.2493532105518,
+    "spectral_rolloff_85": 781.0235507246376,
+    "spectral_rolloff_95": 996.3768115942028,
+    "spectral_entropy": 12.905695676153215,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08810292119565218,
+    "fundamental_frequency": 253.96825396825398,
+    "periodicity_strength": 0.6830114651763538,
+    "spectral_flux": 4.785243964537546e-10,
+    "frequency_stability": 5.380928623532559e-10,
+    "filename": "ehjz.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.992,
+    "dominant_frequencies": [
+      832.9326923076924,
+      426.4823717948718,
+      573.7179487179487,
+      273.63782051282055,
+      213.74198717948718
+    ],
+    "dominant_amplitudes": [
+      383.28763431812996,
+      315.90628497638227,
+      306.1682135165908,
+      302.4264757189398,
+      256.9845733001135
+    ],
+    "frequency_band_energies": {
+      "very_low": 2612040.9201794453,
+      "low": 8256978.0207742145,
+      "mid_low": 18604316.12845453,
+      "mid": 2132289.4438997987,
+      "mid_high": 180992.4070358793,
+      "high": 44945.35024056026,
+      "very_high": 66133.36968293217
+    },
+    "spectral_centroid": 1214.7258509875676,
+    "spectral_spread": 1278.9101365177398,
+    "spectral_rolloff_85": 854.3669871794872,
+    "spectral_rolloff_95": 1120.5929487179487,
+    "spectral_entropy": 13.393466179833247,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.07845052083333333,
+    "fundamental_frequency": 275.86206896551727,
+    "periodicity_strength": 0.31256416099314227,
+    "spectral_flux": 7.794207029727257e-10,
+    "frequency_stability": 7.174278708740897e-10,
+    "filename": "frjryiyir.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 8.736,
+    "dominant_frequencies": [
+      671.474358974359,
+      895.7188644688645,
+      226.19047619047618,
+      481.2271062271062,
+      521.1767399267399
+    ],
+    "dominant_amplitudes": [
+      760.2025748446503,
+      629.7114895166492,
+      511.9806889179187,
+      470.26856770525404,
+      371.9423554981188
+    ],
+    "frequency_band_energies": {
+      "very_low": 7255902.065787992,
+      "low": 19633238.084987883,
+      "mid_low": 61117208.94123578,
+      "mid": 3011030.7233212925,
+      "mid_high": 5652803.356405901,
+      "high": 539851.7487393694,
+      "very_high": 476624.4899744682
+    },
+    "spectral_centroid": 1734.2070552493497,
+    "spectral_spread": 1609.334681525435,
+    "spectral_rolloff_85": 903.1593406593406,
+    "spectral_rolloff_95": 2227.106227106227,
+    "spectral_entropy": 14.430217048675754,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11248712225274725,
+    "fundamental_frequency": 228.57142857142858,
+    "periodicity_strength": 0.6851544310890221,
+    "spectral_flux": 4.3855198684859285e-10,
+    "frequency_stability": 7.08967866474453e-10,
+    "filename": "M17_07_10.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.048,
+    "dominant_frequencies": [
+      344.24603174603175,
+      299.60317460317464,
+      424.2724867724868,
+      511.2433862433863,
+      696.0978835978837
+    ],
+    "dominant_amplitudes": [
+      441.579805474129,
+      390.78147116180486,
+      350.4631483573844,
+      280.0206419514181,
+      276.17829427924005
+    ],
+    "frequency_band_energies": {
+      "very_low": 693533.1569837304,
+      "low": 24599685.57886091,
+      "mid_low": 11390041.120105954,
+      "mid": 5188752.538855856,
+      "mid_high": 1065648.5945529474,
+      "high": 1407327.2695947746,
+      "very_high": 2475241.336168761
+    },
+    "spectral_centroid": 2456.6663031020826,
+    "spectral_spread": 2199.900702038186,
+    "spectral_rolloff_85": 1561.0119047619048,
+    "spectral_rolloff_95": 4105.820105820106,
+    "spectral_entropy": 14.713172736811591,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.13501364087301587,
+    "fundamental_frequency": 372.09302325581393,
+    "periodicity_strength": 0.3089912427044087,
+    "spectral_flux": 4.4168123589081194e-10,
+    "frequency_stability": 4.532150750311969e-10,
+    "filename": "Адриан-О9.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.872,
+    "dominant_frequencies": [
+      522.2107438016529,
+      261.88016528925624,
+      311.4669421487604,
+      564.3078512396695,
+      479.59710743801656
+    ],
+    "dominant_amplitudes": [
+      410.50138614620744,
+      409.7606240433709,
+      298.1022101744378,
+      271.9449786238002,
+      200.88629950472202
+    ],
+    "frequency_band_energies": {
+      "very_low": 1758159.7682997647,
+      "low": 8365818.786032058,
+      "mid_low": 8532214.644457925,
+      "mid": 320308.3736679588,
+      "mid_high": 60026.04354295759,
+      "high": 95719.96574843003,
+      "very_high": 58001.50245852084
+    },
+    "spectral_centroid": 1374.9432555309304,
+    "spectral_spread": 1658.84167501114,
+    "spectral_rolloff_85": 637.3966942148761,
+    "spectral_rolloff_95": 804.2355371900827,
+    "spectral_entropy": 13.061221142450144,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.09631650309917356,
+    "fundamental_frequency": 262.2950819672131,
+    "periodicity_strength": 0.5997581134265965,
+    "spectral_flux": 4.112501782214301e-10,
+    "frequency_stability": 5.391161116942088e-10,
+    "filename": "uijuowejf.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.432,
+    "dominant_frequencies": [
+      245.06578947368422,
+      295.6414473684211,
+      701.8914473684212,
+      499.1776315789474,
+      742.1875
+    ],
+    "dominant_amplitudes": [
+      311.46294732348935,
+      280.47900084323015,
+      200.836465384703,
+      170.85285019121196,
+      141.42357702156391
+    ],
+    "frequency_band_energies": {
+      "very_low": 1028472.3066602619,
+      "low": 3138154.8691388657,
+      "mid_low": 2884191.4876764584,
+      "mid": 288578.93397096684,
+      "mid_high": 123224.73195465028,
+      "high": 75884.97058518059,
+      "very_high": 32213.192868046885
+    },
+    "spectral_centroid": 1553.658207911014,
+    "spectral_spread": 1689.0148398540148,
+    "spectral_rolloff_85": 737.6644736842106,
+    "spectral_rolloff_95": 1058.3881578947369,
+    "spectral_entropy": 12.62014142054059,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.10909231085526316,
+    "fundamental_frequency": 250.0,
+    "periodicity_strength": 0.3861898221452137,
+    "spectral_flux": 2.702213573984613e-10,
+    "frequency_stability": 3.8425384119894333e-10,
+    "filename": "kkddn.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.216,
+    "dominant_frequencies": [
+      399.67105263157896,
+      694.9013157894738,
+      199.83552631578948,
+      449.0131578947369,
+      562.5
+    ],
+    "dominant_amplitudes": [
+      177.81673233125298,
+      111.42719868981239,
+      108.938781834638,
+      92.73625777187036,
+      84.48937657222557
+    ],
+    "frequency_band_energies": {
+      "very_low": 274590.54758922337,
+      "low": 611675.2482588881,
+      "mid_low": 729400.32256996,
+      "mid": 121659.63905382599,
+      "mid_high": 67064.06413703485,
+      "high": 35320.77963561818,
+      "very_high": 52969.13619876747
+    },
+    "spectral_centroid": 2156.4879681958887,
+    "spectral_spread": 2077.6887909491547,
+    "spectral_rolloff_85": 932.5657894736843,
+    "spectral_rolloff_95": 2775.4934210526317,
+    "spectral_entropy": 12.207927912960306,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.17763157894736842,
+    "fundamental_frequency": 225.35211267605635,
+    "periodicity_strength": 0.30496529950047374,
+    "spectral_flux": 3.450830058690947e-10,
+    "frequency_stability": 2.82439813744667e-10,
+    "filename": "knbh.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.24,
+    "dominant_frequencies": [
+      770.3525641025641,
+      404.48717948717945,
+      359.9358974358974,
+      297.7564102564102,
+      854.1666666666666
+    ],
+    "dominant_amplitudes": [
+      422.8563047784234,
+      299.66362932537277,
+      291.54414152496645,
+      235.3231827746829,
+      229.26442844940928
+    ],
+    "frequency_band_energies": {
+      "very_low": 774784.0943952148,
+      "low": 13508509.676270405,
+      "mid_low": 25931722.958281256,
+      "mid": 5736490.497264537,
+      "mid_high": 1999470.7397491261,
+      "high": 1365161.1195970164,
+      "very_high": 523986.781804321
+    },
+    "spectral_centroid": 1766.3811477060408,
+    "spectral_spread": 1566.7730872296959,
+    "spectral_rolloff_85": 1160.2564102564102,
+    "spectral_rolloff_95": 2806.089743589743,
+    "spectral_entropy": 14.35603350067869,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11461338141025641,
+    "fundamental_frequency": 390.2439024390244,
+    "periodicity_strength": 0.3373301403137812,
+    "spectral_flux": 6.212299548240018e-10,
+    "frequency_stability": 5.811245308517249e-10,
+    "filename": "igor-fedyanin-demo-10-09-2024-diktorov.net3.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.584,
+    "dominant_frequencies": [
+      392.0200892857143,
+      587.3325892857143,
+      197.265625,
+      460.65848214285717,
+      642.2991071428571
+    ],
+    "dominant_amplitudes": [
+      290.75191635977995,
+      286.7579767786058,
+      284.9695053268686,
+      239.7904689014738,
+      146.5003615547876
+    ],
+    "frequency_band_energies": {
+      "very_low": 2460668.271886231,
+      "low": 6494907.937540805,
+      "mid_low": 5485708.14255611,
+      "mid": 366858.26872716635,
+      "mid_high": 332557.7861815684,
+      "high": 286338.11607554136,
+      "very_high": 1014633.9363029369
+    },
+    "spectral_centroid": 2521.2878705095613,
+    "spectral_spread": 2327.0973233451,
+    "spectral_rolloff_85": 909.0401785714286,
+    "spectral_rolloff_95": 4314.453125,
+    "spectral_entropy": 13.861791432787088,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.19498116629464285,
+    "fundamental_frequency": 205.12820512820514,
+    "periodicity_strength": 0.3612156528199386,
+    "spectral_flux": 4.223002495147768e-10,
+    "frequency_stability": 4.3693506202598386e-10,
+    "filename": "jgvhbjn.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.216,
+    "dominant_frequencies": [
+      268.0921052631579,
+      548.5197368421053,
+      502.4671052631579,
+      223.6842105263158,
+      589.6381578947369
+    ],
+    "dominant_amplitudes": [
+      222.9610554718298,
+      140.84289054459327,
+      95.93343042580821,
+      73.37471347139574,
+      37.0700560134282
+    ],
+    "frequency_band_energies": {
+      "very_low": 196319.6558224396,
+      "low": 837612.1226975932,
+      "mid_low": 586955.4381431353,
+      "mid": 18337.798236285133,
+      "mid_high": 41960.38715866394,
+      "high": 57187.72781071703,
+      "very_high": 154306.6128420704
+    },
+    "spectral_centroid": 3071.285855497041,
+    "spectral_spread": 2594.558557962418,
+    "spectral_rolloff_85": 774.671052631579,
+    "spectral_rolloff_95": 6913.651315789474,
+    "spectral_entropy": 12.19862456529776,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.25179893092105265,
+    "fundamental_frequency": 8000.0,
+    "periodicity_strength": 0.8169223705959617,
+    "spectral_flux": 5.267886055246268e-10,
+    "frequency_stability": 5.428141787958793e-10,
+    "filename": "nvhgh.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 8.768,
+    "dominant_frequencies": [
+      800.0684306569342,
+      741.7883211678832,
+      1134.1240875912408,
+      345.3467153284671,
+      412.1806569343065
+    ],
+    "dominant_amplitudes": [
+      315.1602702011812,
+      283.1789550662875,
+      274.2279908510906,
+      254.19152520394746,
+      249.70858675289068
+    ],
+    "frequency_band_energies": {
+      "very_low": 540763.9910049253,
+      "low": 14364812.263535809,
+      "mid_low": 25197938.39458324,
+      "mid": 34947746.88433114,
+      "mid_high": 7264893.576657664,
+      "high": 6899732.82985771,
+      "very_high": 9187734.302994665
+    },
+    "spectral_centroid": 2728.8013199142856,
+    "spectral_spread": 2057.652050481007,
+    "spectral_rolloff_85": 3327.4406934306567,
+    "spectral_rolloff_95": 5351.391423357663,
+    "spectral_entropy": 15.50085617135668,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.214594263229927,
+    "fundamental_frequency": 380.95238095238096,
+    "periodicity_strength": 0.35992407840254526,
+    "spectral_flux": 4.798342732589931e-10,
+    "frequency_stability": 3.9901996610502855e-10,
+    "filename": "Matvey_Lapshin_9_let 20232.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 8.256,
+    "dominant_frequencies": [
+      246.72965116279067,
+      498.9098837209302,
+      449.37015503875966,
+      286.9428294573643,
+      365.55232558139534
+    ],
+    "dominant_amplitudes": [
+      660.9339129116509,
+      525.5206909343102,
+      328.46871732172536,
+      304.6996431051017,
+      286.56779941084636
+    ],
+    "frequency_band_energies": {
+      "very_low": 13912254.628711775,
+      "low": 35543278.989261486,
+      "mid_low": 31076199.251194037,
+      "mid": 2432356.5321794054,
+      "mid_high": 1559094.7671376541,
+      "high": 1642607.617683883,
+      "very_high": 1080986.104261651
+    },
+    "spectral_centroid": 1855.1994413644888,
+    "spectral_spread": 1982.6515809060188,
+    "spectral_rolloff_85": 846.656976744186,
+    "spectral_rolloff_95": 1846.0513565891472,
+    "spectral_entropy": 14.719631032582846,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.11723292151162791,
+    "fundamental_frequency": 250.0,
+    "periodicity_strength": 0.43901654663175277,
+    "spectral_flux": 3.0488013518304656e-10,
+    "frequency_stability": 3.093320239308609e-10,
+    "filename": "lnvx.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 10.816,
+    "dominant_frequencies": [
+      292.4371301775148,
+      505.1775147928994,
+      347.26331360946745,
+      251.1094674556213,
+      449.24186390532543
+    ],
+    "dominant_amplitudes": [
+      525.5727346836123,
+      463.988541115227,
+      439.1914323695881,
+      364.5682093139982,
+      283.15531477053065
+    ],
+    "frequency_band_energies": {
+      "very_low": 5930168.220809044,
+      "low": 55594831.02187038,
+      "mid_low": 44786866.9203551,
+      "mid": 19892886.177555792,
+      "mid_high": 11340257.892377958,
+      "high": 9130762.982119886,
+      "very_high": 3066122.440056049
+    },
+    "spectral_centroid": 2029.1103631232534,
+    "spectral_spread": 1699.5929160505966,
+    "spectral_rolloff_85": 2049.4637573964496,
+    "spectral_rolloff_95": 3435.373520710059,
+    "spectral_entropy": 15.448538463236272,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11915796042899408,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 2.7576284045757457e-10,
+    "frequency_stability": 2.8322672950913725e-10,
+    "filename": "igor-fedyanin-demo-10-09-2024-diktorov.net2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.4856875,
+    "dominant_frequencies": [
+      553.9905319317699,
+      468.2268662697982,
+      512.3109934792229,
+      32.595536482120046,
+      251.81387815080447
+    ],
+    "dominant_amplitudes": [
+      576.2958583666446,
+      434.734946232424,
+      416.0704186784482,
+      381.3518369118543,
+      358.29473441325956
+    ],
+    "frequency_band_energies": {
+      "very_low": 8346061.659907422,
+      "low": 33462094.613925055,
+      "mid_low": 29166657.57044714,
+      "mid": 431431.2651161397,
+      "mid_high": 156489.9894143144,
+      "high": 91510.74645671928,
+      "very_high": 71243.4855473211
+    },
+    "spectral_centroid": 1009.182993353604,
+    "spectral_spread": 1320.2185814744184,
+    "spectral_rolloff_85": 555.8607676315636,
+    "spectral_rolloff_95": 592.1967755132712,
+    "spectral_entropy": 13.480907651161363,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.07204164614138647,
+    "fundamental_frequency": 266.6666666666667,
+    "periodicity_strength": 0.37933914507046174,
+    "spectral_flux": 8.710038339209551e-10,
+    "frequency_stability": 8.499832726153152e-10,
+    "filename": "frri.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.192,
+    "dominant_frequencies": [
+      248.0916030534351,
+      405.0572519083969,
+      507.1564885496183,
+      301.2881679389313,
+      445.37213740458014
+    ],
+    "dominant_amplitudes": [
+      308.0834935595407,
+      258.53402902585566,
+      227.03517652159545,
+      194.10174192093277,
+      134.21738087575264
+    ],
+    "frequency_band_energies": {
+      "very_low": 2332195.69806798,
+      "low": 6316424.522450829,
+      "mid_low": 4982134.353099758,
+      "mid": 2297852.1702247187,
+      "mid_high": 2278814.3930601804,
+      "high": 1869280.444188792,
+      "very_high": 2416624.5372471996
+    },
+    "spectral_centroid": 2703.608602604629,
+    "spectral_spread": 2045.9432752338057,
+    "spectral_rolloff_85": 3494.513358778626,
+    "spectral_rolloff_95": 4884.7805343511445,
+    "spectral_entropy": 14.41506298533066,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.22107585877862596,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 2.0044203447161486e-10,
+    "frequency_stability": 2.394576865617458e-10,
+    "filename": "bogdan-zhuravkov-demo-09-08-2020-diktorov.net3.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.232,
+    "dominant_frequencies": [
+      525.0618811881188,
+      621.9059405940594,
+      722.4628712871287,
+      974.3193069306931,
+      253.7128712871287
+    ],
+    "dominant_amplitudes": [
+      292.44430822948095,
+      272.9096494384536,
+      187.0527124137739,
+      171.0682080955534,
+      165.95759092624618
+    ],
+    "frequency_band_energies": {
+      "very_low": 155224.6581904562,
+      "low": 1571667.7482060627,
+      "mid_low": 10398622.646737743,
+      "mid": 983902.019660946,
+      "mid_high": 224298.74666528302,
+      "high": 28535.021136675583,
+      "very_high": 8405.266483771962
+    },
+    "spectral_centroid": 1204.3855983537292,
+    "spectral_spread": 1058.4338279179892,
+    "spectral_rolloff_85": 959.7772277227723,
+    "spectral_rolloff_95": 1166.15099009901,
+    "spectral_entropy": 12.65241746632609,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.07936262376237624,
+    "fundamental_frequency": 551.7241379310345,
+    "periodicity_strength": 0.3485910933878722,
+    "spectral_flux": 4.191598040364644e-10,
+    "frequency_stability": 3.519667170338599e-10,
+    "filename": "M18_04_09.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.360625,
+    "dominant_frequencies": [
+      252.0518930368017,
+      325.76118612655546,
+      659.994704792163,
+      523.5901509134234,
+      571.8824463860207
+    ],
+    "dominant_amplitudes": [
+      327.5315592291277,
+      270.08074547582646,
+      177.16474406128552,
+      122.46354754161653,
+      117.7443520958687
+    ],
+    "frequency_band_energies": {
+      "very_low": 1543014.0273432736,
+      "low": 3278529.0179638783,
+      "mid_low": 1903260.386176236,
+      "mid": 193918.2289714716,
+      "mid_high": 95489.6167115228,
+      "high": 55472.3776803417,
+      "very_high": 63180.67335386799
+    },
+    "spectral_centroid": 1693.6255745071776,
+    "spectral_spread": 1846.6566281345386,
+    "spectral_rolloff_85": 658.3002382843526,
+    "spectral_rolloff_95": 1290.3362456976436,
+    "spectral_entropy": 12.741309899548499,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.10518930368016945,
+    "fundamental_frequency": 271.1864406779661,
+    "periodicity_strength": 0.43249975720063727,
+    "spectral_flux": 2.8301730906967026e-10,
+    "frequency_stability": 3.640890949242339e-10,
+    "filename": "poklj.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 10.848,
+    "dominant_frequencies": [
+      256.7293510324484,
+      478.6135693215339,
+      928.2817109144543,
+      601.1246312684366,
+      541.8510324483775
+    ],
+    "dominant_amplitudes": [
+      726.7247253054124,
+      458.7196628218045,
+      407.72482409804,
+      406.3012627915413,
+      386.76224719841247
+    ],
+    "frequency_band_energies": {
+      "very_low": 7421842.773511445,
+      "low": 41271684.54218539,
+      "mid_low": 81432944.57073733,
+      "mid": 14904720.357568301,
+      "mid_high": 1445536.199143668,
+      "high": 2302901.4182178783,
+      "very_high": 1849654.6969129147
+    },
+    "spectral_centroid": 1693.0802824582743,
+    "spectral_spread": 1671.4272843776114,
+    "spectral_rolloff_85": 982.3930678466077,
+    "spectral_rolloff_95": 1346.0545722713864,
+    "spectral_entropy": 14.960704796685866,
+    "rms_energy": 0.10000001639127731,
+    "zero_crossing_rate": 0.10105261338495575,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 3.397307590437642e-10,
+    "frequency_stability": 3.502265211377938e-10,
+    "filename": "M11_01_05.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.232,
+    "dominant_frequencies": [
+      620.3589108910891,
+      1221.2252475247524,
+      1273.2054455445545,
+      1181.3118811881188,
+      1809.4059405940593
+    ],
+    "dominant_amplitudes": [
+      201.38986272238958,
+      198.31008425376646,
+      185.513833154318,
+      154.1680824583697,
+      140.35341695817846
+    ],
+    "frequency_band_energies": {
+      "very_low": 22943.063327923643,
+      "low": 125989.7863932789,
+      "mid_low": 3152713.4100305666,
+      "mid": 8160213.569807112,
+      "mid_high": 1566098.1640110472,
+      "high": 85955.90708889918,
+      "very_high": 256739.4823915119
+    },
+    "spectral_centroid": 2171.8513149667965,
+    "spectral_spread": 1649.8419758738378,
+    "spectral_rolloff_85": 1982.3638613861385,
+    "spectral_rolloff_95": 2291.769801980198,
+    "spectral_entropy": 13.52341070931173,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.17141089108910892,
+    "fundamental_frequency": 615.3846153846154,
+    "periodicity_strength": 0.45068763728254624,
+    "spectral_flux": 1.5760499407835645e-10,
+    "frequency_stability": 1.311173011287489e-10,
+    "filename": "bogdan-zhuravkov-demo-09-08-2020-diktorov.net4.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 8.384,
+    "dominant_frequencies": [
+      633.229961832061,
+      592.6765267175572,
+      272.3043893129771,
+      319.537213740458,
+      407.08492366412213
+    ],
+    "dominant_amplitudes": [
+      655.1603268508311,
+      387.9703066481686,
+      355.60220989935794,
+      280.82905253533323,
+      271.22496150253465
+    ],
+    "frequency_band_energies": {
+      "very_low": 2088693.7951560155,
+      "low": 24143791.173918866,
+      "mid_low": 51954942.58322094,
+      "mid": 7949680.921447077,
+      "mid_high": 1654308.3724577231,
+      "high": 1078215.8594208327,
+      "very_high": 1103440.6153265291
+    },
+    "spectral_centroid": 1796.8601541382354,
+    "spectral_spread": 1771.1864522513852,
+    "spectral_rolloff_85": 941.5553435114504,
+    "spectral_rolloff_95": 1887.2853053435113,
+    "spectral_entropy": 14.784518006756521,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1510540911259542,
+    "fundamental_frequency": 313.72549019607845,
+    "periodicity_strength": 0.3777464167499162,
+    "spectral_flux": 6.420764716831593e-10,
+    "frequency_stability": 5.812837323145907e-10,
+    "filename": "ЕгорК_20254.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.44,
+    "dominant_frequencies": [
+      603.860294117647,
+      703.4926470588234,
+      644.6691176470588,
+      240.62499999999997,
+      471.87499999999994
+    ],
+    "dominant_amplitudes": [
+      537.2967823856503,
+      357.76638131751827,
+      326.12934946768837,
+      287.9964108673155,
+      258.8819038368577
+    ],
+    "frequency_band_energies": {
+      "very_low": 2006600.6806176123,
+      "low": 5574650.868188438,
+      "mid_low": 29057234.845181838,
+      "mid": 677008.8639974822,
+      "mid_high": 208631.10465906325,
+      "high": 207991.60708330508,
+      "very_high": 147697.2527497356
+    },
+    "spectral_centroid": 1365.083937908474,
+    "spectral_spread": 1437.7977309509895,
+    "spectral_rolloff_85": 770.220588235294,
+    "spectral_rolloff_95": 923.8970588235294,
+    "spectral_entropy": 13.522667718948954,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11332720588235294,
+    "fundamental_frequency": 640.0,
+    "periodicity_strength": 0.3868998582952004,
+    "spectral_flux": 5.965198287280736e-10,
+    "frequency_stability": 6.161426035715426e-10,
+    "filename": "M14_03_04.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.688,
+    "dominant_frequencies": [
+      314.4437799043062,
+      358.4031100478469,
+      398.47488038277515,
+      584.0311004784689,
+      233.55263157894737
+    ],
+    "dominant_amplitudes": [
+      410.7604727941575,
+      378.311572987916,
+      256.29063854281384,
+      240.55174901460802,
+      239.48850035584698
+    ],
+    "frequency_band_energies": {
+      "very_low": 2114655.1756186145,
+      "low": 28429932.961872585,
+      "mid_low": 13086739.824132625,
+      "mid": 7048907.66317387,
+      "mid_high": 1539430.465816572,
+      "high": 1625731.1424525767,
+      "very_high": 3408169.944843003
+    },
+    "spectral_centroid": 2470.9530143739794,
+    "spectral_spread": 2238.4091807977165,
+    "spectral_rolloff_85": 1642.6435406698565,
+    "spectral_rolloff_95": 4649.222488038277,
+    "spectral_entropy": 14.921653785860098,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.16946396531100477,
+    "fundamental_frequency": 333.3333333333333,
+    "periodicity_strength": 0.36643525970427393,
+    "spectral_flux": 2.9288158005044275e-10,
+    "frequency_stability": 3.2761553620475926e-10,
+    "filename": "Адриан-О6.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.04,
+    "dominant_frequencies": [
+      303.2894736842105,
+      600.328947368421,
+      1029.6052631578948,
+      644.7368421052632,
+      547.3684210526317
+    ],
+    "dominant_amplitudes": [
+      341.1918356726377,
+      267.87688657143667,
+      207.8679701277945,
+      163.36036105556173,
+      135.01230936990882
+    ],
+    "frequency_band_energies": {
+      "very_low": 96082.88327533322,
+      "low": 3625008.3378865714,
+      "mid_low": 5980733.369521573,
+      "mid": 1940831.6398055917,
+      "mid_high": 137753.98705756047,
+      "high": 35472.82017665174,
+      "very_high": 13365.709289957807
+    },
+    "spectral_centroid": 1271.370591753503,
+    "spectral_spread": 1258.0263966692867,
+    "spectral_rolloff_85": 1017.4342105263158,
+    "spectral_rolloff_95": 1244.407894736842,
+    "spectral_entropy": 12.704424355825239,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1057360197368421,
+    "fundamental_frequency": 320.0,
+    "periodicity_strength": 0.48346372322558817,
+    "spectral_flux": 3.0386759299379843e-10,
+    "frequency_stability": 3.2936542149492365e-10,
+    "filename": "uyefjk.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 9.408,
+    "dominant_frequencies": [
+      534.2261904761905,
+      463.0102040816327,
+      653.8052721088436,
+      698.341836734694,
+      898.4906462585035
+    ],
+    "dominant_amplitudes": [
+      538.7401684231403,
+      448.4652151230336,
+      443.94775646641233,
+      404.94517982598853,
+      327.11690442941693
+    ],
+    "frequency_band_energies": {
+      "very_low": 1590218.3419980812,
+      "low": 21722324.528358236,
+      "mid_low": 83912776.17340271,
+      "mid": 3282441.7208005195,
+      "mid_high": 1644733.6018003963,
+      "high": 695523.2959144464,
+      "very_high": 445366.7509777919
+    },
+    "spectral_centroid": 1413.078685132559,
+    "spectral_spread": 1394.6070495344884,
+    "spectral_rolloff_85": 899.1284013605443,
+    "spectral_rolloff_95": 1088.1164965986395,
+    "spectral_entropy": 14.3971037073608,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.10846487032312925,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 1.0268017016158381e-09,
+    "frequency_stability": 9.742218556276029e-10,
+    "filename": "M12_06_01.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.312,
+    "dominant_frequencies": [
+      245.67018072289153,
+      857.8689759036143,
+      678.8403614457831,
+      328.12499999999994,
+      567.9593373493975
+    ],
+    "dominant_amplitudes": [
+      241.35124408606697,
+      171.06644804918298,
+      156.44385448234343,
+      153.135828195604,
+      148.56005761879982
+    ],
+    "frequency_band_energies": {
+      "very_low": 2445740.394810013,
+      "low": 3756408.5389230303,
+      "mid_low": 9915346.446719974,
+      "mid": 6590508.6265206225,
+      "mid_high": 4663041.048206014,
+      "high": 1787788.5157007896,
+      "very_high": 6959366.592274769
+    },
+    "spectral_centroid": 3119.0832309655584,
+    "spectral_spread": 2272.9133620429643,
+    "spectral_rolloff_85": 5073.606927710843,
+    "spectral_rolloff_95": 6794.427710843373,
+    "spectral_entropy": 14.92967848983598,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.24532897213855423,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 1.651763572799016e-10,
+    "frequency_stability": 1.4630751824554796e-10,
+    "filename": "artem-korolevskij-demo-26-06-2025-diktorov.net.mp3"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 9.12,
+    "dominant_frequencies": [
+      245.83333333333331,
+      506.14035087719293,
+      286.62280701754383,
+      466.00877192982455,
+      755.5921052631578
+    ],
+    "dominant_amplitudes": [
+      865.7256408857747,
+      638.469399481118,
+      458.7660265377675,
+      312.67902649455937,
+      257.5806385757891
+    ],
+    "frequency_band_energies": {
+      "very_low": 21417879.17130657,
+      "low": 43254997.82022872,
+      "mid_low": 22214706.344319955,
+      "mid": 2360041.269794045,
+      "mid_high": 1399071.610235234,
+      "high": 2645896.290944943,
+      "very_high": 13170642.970418988
+    },
+    "spectral_centroid": 3106.968960408194,
+    "spectral_spread": 2460.1990674691715,
+    "spectral_rolloff_85": 2889.364035087719,
+    "spectral_rolloff_95": 5863.048245614034,
+    "spectral_entropy": 15.365418756552685,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.22386239035087718,
+    "fundamental_frequency": 5333.333333333333,
+    "periodicity_strength": 0.733100658497114,
+    "spectral_flux": 3.613110105448416e-10,
+    "frequency_stability": 5.447750883759778e-10,
+    "filename": "vtumj.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.6,
+    "dominant_frequencies": [
+      531.875,
+      266.25,
+      697.5,
+      483.75,
+      738.75
+    ],
+    "dominant_amplitudes": [
+      402.7020291123199,
+      182.54251928113501,
+      76.27956770669515,
+      71.72728933636165,
+      67.9066368848893
+    ],
+    "frequency_band_energies": {
+      "very_low": 134865.2469402605,
+      "low": 529641.6433181794,
+      "mid_low": 2272417.3035404524,
+      "mid": 76706.98340093883,
+      "mid_high": 13979.471082004564,
+      "high": 14099.424512214904,
+      "very_high": 235090.3926174075
+    },
+    "spectral_centroid": 2739.791386663165,
+    "spectral_spread": 2368.477199495514,
+    "spectral_rolloff_85": 738.75,
+    "spectral_rolloff_95": 5220.0,
+    "spectral_entropy": 12.404942494543688,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.227734375,
+    "fundamental_frequency": 551.7241379310345,
+    "periodicity_strength": 0.3921477794647217,
+    "spectral_flux": 1.046233968308532e-09,
+    "frequency_stability": 1.1509615192730278e-09,
+    "filename": "videoplaybackq2332.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.648,
+    "dominant_frequencies": [
+      590.4811715481171,
+      982.2175732217573,
+      1210.38179916318,
+      1143.8284518828452,
+      756.0146443514644
+    ],
+    "dominant_amplitudes": [
+      228.64699923091183,
+      226.4860087483442,
+      223.50854774988963,
+      211.90390515668497,
+      202.2269495183548
+    ],
+    "frequency_band_energies": {
+      "very_low": 162649.46217896347,
+      "low": 5860101.952056887,
+      "mid_low": 20732347.201937545,
+      "mid": 34919901.79418041,
+      "mid_high": 10069809.814185945,
+      "high": 1963246.5785992066,
+      "very_high": 1161582.8053998386
+    },
+    "spectral_centroid": 1984.228366855728,
+    "spectral_spread": 1503.0768768564358,
+    "spectral_rolloff_85": 2133.36820083682,
+    "spectral_rolloff_95": 2728.817991631799,
+    "spectral_entropy": 14.875533280911533,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.13331099633891214,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 2.619374982779115e-10,
+    "frequency_stability": 2.4422555994511513e-10,
+    "filename": "lev3.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.70725,
+    "dominant_frequencies": [
+      22.51845557384885,
+      517.074725158001,
+      784.7469329226194,
+      285.72945987572365,
+      1056.6679058898508
+    ],
+    "dominant_amplitudes": [
+      714.0218689323609,
+      444.5493077495991,
+      292.4128730228395,
+      278.882060387074,
+      232.42468242799936
+    ],
+    "frequency_band_energies": {
+      "very_low": 4813448.539393118,
+      "low": 4479344.656308567,
+      "mid_low": 11848608.698722102,
+      "mid": 5691622.986200957,
+      "mid_high": 465116.4974385524,
+      "high": 338141.54902057775,
+      "very_high": 726491.3737553186
+    },
+    "spectral_centroid": 2033.9046923188512,
+    "spectral_spread": 1900.676475897332,
+    "spectral_rolloff_85": 1103.6167613787243,
+    "spectral_rolloff_95": 2078.708375378406,
+    "spectral_entropy": 14.002591652673786,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.08394630622975198,
+    "fundamental_frequency": 266.6666666666667,
+    "periodicity_strength": 0.6374149002182292,
+    "spectral_flux": 2.56094803182064e-10,
+    "frequency_stability": 2.901201990708714e-10,
+    "filename": "sgsgsghwer.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.232,
+    "dominant_frequencies": [
+      578.8985148514852,
+      280.94059405940595,
+      926.0519801980198,
+      621.2871287128713,
+      531.25
+    ],
+    "dominant_amplitudes": [
+      538.8703413311612,
+      168.86934175932979,
+      145.15997220048123,
+      132.3473013668901,
+      118.92369965797087
+    ],
+    "frequency_band_energies": {
+      "very_low": 82150.08281865795,
+      "low": 1052092.451322162,
+      "mid_low": 10649035.073595274,
+      "mid": 770045.7852675678,
+      "mid_high": 371834.31141507556,
+      "high": 279943.9282155988,
+      "very_high": 165554.38745878628
+    },
+    "spectral_centroid": 1833.4286467579955,
+    "spectral_spread": 1587.6081895774794,
+    "spectral_rolloff_85": 928.5272277227723,
+    "spectral_rolloff_95": 2327.3514851485147,
+    "spectral_entropy": 13.322469321270704,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.09835241336633663,
+    "fundamental_frequency": 592.5925925925926,
+    "periodicity_strength": 0.5251031160364351,
+    "spectral_flux": 5.900431384440095e-10,
+    "frequency_stability": 1.106378873886321e-09,
+    "filename": "M15_07_08.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.413375,
+    "dominant_frequencies": [
+      245.39043249214035,
+      488.7416093126009,
+      448.4096638060441,
+      647.1237998130682,
+      553.3180389157957
+    ],
+    "dominant_amplitudes": [
+      456.736388174125,
+      415.9277694176107,
+      253.65058717836035,
+      237.32288422743883,
+      189.2926276690357
+    ],
+    "frequency_band_energies": {
+      "very_low": 4688027.491362616,
+      "low": 8740399.435319886,
+      "mid_low": 10646029.902759643,
+      "mid": 454064.9985364101,
+      "mid_high": 205185.34240034915,
+      "high": 87261.04201883136,
+      "very_high": 110719.07011054637
+    },
+    "spectral_centroid": 1418.6675324045357,
+    "spectral_spread": 1683.6967747960725,
+    "spectral_rolloff_85": 636.0211856005891,
+    "spectral_rolloff_95": 784.8868496332171,
+    "spectral_entropy": 13.247114460246749,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11205285070949103,
+    "fundamental_frequency": 246.15384615384616,
+    "periodicity_strength": 0.5182830201334625,
+    "spectral_flux": 9.538057511153698e-10,
+    "frequency_stability": 1.0177833049255276e-09,
+    "filename": "qwegtqweyqwey.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.685625,
+    "dominant_frequencies": [
+      546.241563881778,
+      248.3593204561322,
+      328.0428205724924,
+      587.5727251570863,
+      656.830346753549
+    ],
+    "dominant_amplitudes": [
+      387.21364388667286,
+      238.47877302540897,
+      230.42570921462053,
+      133.29369022074746,
+      91.77477343678491
+    ],
+    "frequency_band_energies": {
+      "very_low": 546576.8897485748,
+      "low": 3038647.017765606,
+      "mid_low": 5148951.056251929,
+      "mid": 111977.4664552092,
+      "mid_high": 29725.471849349207,
+      "high": 304170.61297752097,
+      "very_high": 52055.20249189221
+    },
+    "spectral_centroid": 1691.8976910647352,
+    "spectral_spread": 1737.3441874900054,
+    "spectral_rolloff_85": 587.5727251570863,
+    "spectral_rolloff_95": 1124.5054689318129,
+    "spectral_entropy": 12.503214215320298,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.0960088433791017,
+    "fundamental_frequency": 280.70175438596493,
+    "periodicity_strength": 0.7270930837307353,
+    "spectral_flux": 6.607979208855941e-10,
+    "frequency_stability": 7.302524718188291e-10,
+    "filename": "rweyr.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.624,
+    "dominant_frequencies": [
+      585.3658536585366,
+      259.5274390243903,
+      339.9390243902439,
+      679.4969512195122,
+      629.5731707317074
+    ],
+    "dominant_amplitudes": [
+      272.8471260165684,
+      235.8135266482411,
+      235.03981617880657,
+      226.0733918487053,
+      179.30783388914824
+    ],
+    "frequency_band_energies": {
+      "very_low": 468182.8030435133,
+      "low": 2479525.2508781007,
+      "mid_low": 5662574.426560197,
+      "mid": 147050.58879943143,
+      "mid_high": 30394.30037744646,
+      "high": 16522.29249776397,
+      "very_high": 9035.697075232532
+    },
+    "spectral_centroid": 1177.378955374623,
+    "spectral_spread": 1397.9493708793839,
+    "spectral_rolloff_85": 682.545731707317,
+    "spectral_rolloff_95": 821.265243902439,
+    "spectral_entropy": 12.156676300741651,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.08739043445121951,
+    "fundamental_frequency": 307.6923076923077,
+    "periodicity_strength": 0.4809560600338031,
+    "spectral_flux": 8.325470407369186e-10,
+    "frequency_stability": 9.398974721839875e-10,
+    "filename": "13571.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.136,
+    "dominant_frequencies": [
+      529.9744897959183,
+      266.2627551020408,
+      605.8673469387755,
+      801.3392857142857,
+      490.11479591836735
+    ],
+    "dominant_amplitudes": [
+      495.6738983102674,
+      389.85481393317775,
+      166.69011347241573,
+      143.33573300674092,
+      141.77785717616857
+    ],
+    "frequency_band_energies": {
+      "very_low": 596453.3836304365,
+      "low": 3263800.671796359,
+      "mid_low": 8161992.695978746,
+      "mid": 239486.00483415555,
+      "mid_high": 111875.83997327538,
+      "high": 85281.94342258733,
+      "very_high": 129265.78037803552
+    },
+    "spectral_centroid": 1798.9614989612085,
+    "spectral_spread": 1905.806907316777,
+    "spectral_rolloff_85": 614.7959183673469,
+    "spectral_rolloff_95": 854.5918367346939,
+    "spectral_entropy": 13.01222695499879,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.12741151147959184,
+    "fundamental_frequency": 266.6666666666667,
+    "periodicity_strength": 0.7447520686616426,
+    "spectral_flux": 2.5530584013471494e-10,
+    "frequency_stability": 3.3652941208727027e-10,
+    "filename": "mhjbnjsdc.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.6,
+    "dominant_frequencies": [
+      525.3571428571428,
+      482.8571428571428,
+      255.8928571428571,
+      632.3214285714284,
+      588.2142857142857
+    ],
+    "dominant_amplitudes": [
+      483.89722067851733,
+      332.0611787456432,
+      229.991195208941,
+      183.77831426680473,
+      158.18631851769626
+    ],
+    "frequency_band_energies": {
+      "very_low": 2239357.7762728943,
+      "low": 12291446.971131489,
+      "mid_low": 16773767.486980746,
+      "mid": 1553349.567291982,
+      "mid_high": 1280502.130051176,
+      "high": 1099047.1517677333,
+      "very_high": 4903328.1965996595
+    },
+    "spectral_centroid": 3000.48752164404,
+    "spectral_spread": 2459.1601022849486,
+    "spectral_rolloff_85": 2982.4999999999995,
+    "spectral_rolloff_95": 6412.142857142856,
+    "spectral_entropy": 14.76467258868025,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.20143973214285715,
+    "fundamental_frequency": 533.3333333333334,
+    "periodicity_strength": 0.31864130664316087,
+    "spectral_flux": 8.430937011887982e-10,
+    "frequency_stability": 6.67980408868479e-10,
+    "filename": "hfcgvjhb.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.088,
+    "dominant_frequencies": [
+      288.9150943396226,
+      605.7389937106918,
+      649.567610062893,
+      562.5,
+      715.2122641509434
+    ],
+    "dominant_amplitudes": [
+      529.542199151932,
+      341.9338414929108,
+      284.78077676127356,
+      238.99516537731418,
+      192.7222077123771
+    ],
+    "frequency_band_energies": {
+      "very_low": 680557.1933115647,
+      "low": 12164313.409229983,
+      "mid_low": 16667735.733811347,
+      "mid": 2569961.37684213,
+      "mid_high": 749812.2196809308,
+      "high": 122467.57006395694,
+      "very_high": 181483.55743172969
+    },
+    "spectral_centroid": 1555.0283727291294,
+    "spectral_spread": 1669.593583392436,
+    "spectral_rolloff_85": 945.5581761006289,
+    "spectral_rolloff_95": 1375.9827044025155,
+    "spectral_entropy": 13.81884093449866,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.12870970911949686,
+    "fundamental_frequency": 313.72549019607845,
+    "periodicity_strength": 0.4321924403912284,
+    "spectral_flux": 3.6672559352466507e-10,
+    "frequency_stability": 3.5802035642863475e-10,
+    "filename": "mjbhfc.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.048,
+    "dominant_frequencies": [
+      344.24603174603175,
+      299.60317460317464,
+      424.2724867724868,
+      511.2433862433863,
+      696.0978835978837
+    ],
+    "dominant_amplitudes": [
+      441.579755812966,
+      390.7814885976747,
+      350.46317696932493,
+      280.02079029815684,
+      276.1777787163359
+    ],
+    "frequency_band_energies": {
+      "very_low": 693533.1716654238,
+      "low": 24599689.03935866,
+      "mid_low": 11390044.264958616,
+      "mid": 5188750.950384195,
+      "mid_high": 1065649.160652868,
+      "high": 1407326.754846169,
+      "very_high": 2475239.2359906775
+    },
+    "spectral_centroid": 2456.6661933558503,
+    "spectral_spread": 2199.9005493548693,
+    "spectral_rolloff_85": 1561.0119047619048,
+    "spectral_rolloff_95": 4105.820105820106,
+    "spectral_entropy": 14.713173504783255,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.13499297288359788,
+    "fundamental_frequency": 372.09302325581393,
+    "periodicity_strength": 0.30899120372589634,
+    "spectral_flux": 4.416812577203037e-10,
+    "frequency_stability": 4.5321514793242273e-10,
+    "filename": "Адриан-О10.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.232125,
+    "dominant_frequencies": [
+      743.6265274729074,
+      783.5871199681975,
+      251.24012651883092,
+      545.897644191714,
+      496.25801545189
+    ],
+    "dominant_amplitudes": [
+      461.28500207851624,
+      375.35016279429453,
+      374.13891068287256,
+      316.10083833672746,
+      295.03138772561954
+    ],
+    "frequency_band_energies": {
+      "very_low": 8779898.680688275,
+      "low": 8842399.185197536,
+      "mid_low": 34971084.680846736,
+      "mid": 10364653.232744189,
+      "mid_high": 2774472.382370388,
+      "high": 758271.0768280302,
+      "very_high": 457884.3019672128
+    },
+    "spectral_centroid": 1574.4566566640513,
+    "spectral_spread": 1474.8468773311906,
+    "spectral_rolloff_85": 1285.2377413277563,
+    "spectral_rolloff_95": 2142.5238087007624,
+    "spectral_entropy": 14.570499486109915,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.10618421280052544,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.6218892423487003e-10,
+    "frequency_stability": 4.563893657263737e-10,
+    "filename": "M11_09_01.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 8.384,
+    "dominant_frequencies": [
+      691.7938931297709,
+      607.1087786259542,
+      561.7843511450382,
+      650.2862595419847,
+      317.5095419847328
+    ],
+    "dominant_amplitudes": [
+      548.9609482719266,
+      485.89442442236106,
+      420.3409091462099,
+      373.638282235842,
+      281.05632792132593
+    ],
+    "frequency_band_energies": {
+      "very_low": 1112767.774808118,
+      "low": 11149075.77922014,
+      "mid_low": 69781850.87897755,
+      "mid": 5485935.391444932,
+      "mid_high": 1332435.4876220196,
+      "high": 697586.984703126,
+      "very_high": 413447.7308675478
+    },
+    "spectral_centroid": 1605.2133918201803,
+    "spectral_spread": 1703.814689302079,
+    "spectral_rolloff_85": 853.2919847328244,
+    "spectral_rolloff_95": 1260.615458015267,
+    "spectral_entropy": 14.489210377702202,
+    "rms_energy": 0.10000000894069672,
+    "zero_crossing_rate": 0.12177212547709923,
+    "fundamental_frequency": 640.0,
+    "periodicity_strength": 0.42611840158353625,
+    "spectral_flux": 7.295026053535546e-10,
+    "frequency_stability": 6.8363611477492e-10,
+    "filename": "ryriu.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.792,
+    "dominant_frequencies": [
+      793.5267857142858,
+      748.3258928571429,
+      244.41964285714286,
+      516.7410714285714,
+      840.9598214285714
+    ],
+    "dominant_amplitudes": [
+      284.72610860626065,
+      169.9174051243758,
+      163.56583129593486,
+      131.10590479015914,
+      111.31481973640581
+    ],
+    "frequency_band_energies": {
+      "very_low": 206175.26279992767,
+      "low": 353530.42939899914,
+      "mid_low": 3268006.5403101644,
+      "mid": 263098.965092115,
+      "mid_high": 10395.875794914049,
+      "high": 4645.823913889042,
+      "very_high": 4580.650378968601
+    },
+    "spectral_centroid": 1278.1906550332512,
+    "spectral_spread": 1365.002123795583,
+    "spectral_rolloff_85": 836.4955357142858,
+    "spectral_rolloff_95": 1058.59375,
+    "spectral_entropy": 11.687119700786443,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.10857282366071429,
+    "fundamental_frequency": 800.0,
+    "periodicity_strength": 0.5248858996683426,
+    "spectral_flux": 7.711269243826594e-10,
+    "frequency_stability": 5.923828418087309e-10,
+    "filename": "72246.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.60675,
+    "dominant_frequencies": [
+      733.6244541484717,
+      500.7278020378457,
+      693.1447979482914,
+      901.6427531711375,
+      549.8024537325848
+    ],
+    "dominant_amplitudes": [
+      296.85222829045966,
+      295.5357528076374,
+      220.44807603538055,
+      207.7065634833117,
+      189.59997882130696
+    ],
+    "frequency_band_energies": {
+      "very_low": 423455.2225284109,
+      "low": 1898601.241594344,
+      "mid_low": 11406036.839497028,
+      "mid": 1385245.941732719,
+      "mid_high": 850931.833605188,
+      "high": 478846.82596319757,
+      "very_high": 207948.37144413101
+    },
+    "spectral_centroid": 1866.3748791413177,
+    "spectral_spread": 1574.996511805426,
+    "spectral_rolloff_85": 1087.1283011021003,
+    "spectral_rolloff_95": 2521.1062590975257,
+    "spectral_entropy": 13.557228393539173,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.0994316212656824,
+    "fundamental_frequency": 246.15384615384616,
+    "periodicity_strength": 0.33875521886857307,
+    "spectral_flux": 2.885851093545524e-10,
+    "frequency_stability": 2.635947606827949e-10,
+    "filename": "M15_07_09.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.136,
+    "dominant_frequencies": [
+      609.02466367713,
+      265.414798206278,
+      378.7836322869955,
+      466.08744394618833,
+      316.2836322869955
+    ],
+    "dominant_amplitudes": [
+      422.54024916807816,
+      396.4404486801133,
+      342.66439066712076,
+      299.1750568910998,
+      251.2825045400207
+    ],
+    "frequency_band_energies": {
+      "very_low": 2586683.4672793834,
+      "low": 31145140.21092633,
+      "mid_low": 22849970.30776729,
+      "mid": 4543374.516592824,
+      "mid_high": 1223167.100779111,
+      "high": 1014420.8319363229,
+      "very_high": 1818047.8756596632
+    },
+    "spectral_centroid": 2100.7312024490907,
+    "spectral_spread": 2095.7959043757664,
+    "spectral_rolloff_85": 934.9775784753363,
+    "spectral_rolloff_95": 2743.6939461883408,
+    "spectral_entropy": 14.748223155765395,
+    "rms_energy": 0.10000001639127731,
+    "zero_crossing_rate": 0.13946889013452915,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.1554273997435735e-10,
+    "frequency_stability": 4.020342945761716e-10,
+    "filename": "ЕгорК_20252.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.56,
+    "dominant_frequencies": [
+      302.5914634146341,
+      616.7682926829268,
+      826.3719512195122,
+      550.3048780487804,
+      416.0060975609756
+    ],
+    "dominant_amplitudes": [
+      461.3402466030509,
+      413.6448110102914,
+      363.6072117264544,
+      259.5321057768034,
+      238.44379135428122
+    ],
+    "frequency_band_energies": {
+      "very_low": 977884.0106321045,
+      "low": 20669124.470466956,
+      "mid_low": 29305227.04212319,
+      "mid": 3755323.306741473,
+      "mid_high": 246745.67190090154,
+      "high": 57524.51115348261,
+      "very_high": 71167.51665224085
+    },
+    "spectral_centroid": 1191.290512576088,
+    "spectral_spread": 1356.933884649581,
+    "spectral_rolloff_85": 845.7317073170732,
+    "spectral_rolloff_95": 1106.5548780487804,
+    "spectral_entropy": 13.694674879352226,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.08889100609756098,
+    "fundamental_frequency": 285.7142857142857,
+    "periodicity_strength": 0.49613162623937057,
+    "spectral_flux": 5.007425089557361e-10,
+    "frequency_stability": 6.274159196587302e-10,
+    "filename": "43346346.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.7380625,
+    "dominant_frequencies": [
+      289.9780646553274,
+      584.5589557337553,
+      544.2842245316265,
+      243.94980042432306,
+      642.6696393253982
+    ],
+    "dominant_amplitudes": [
+      266.1306861353517,
+      159.9554181905749,
+      147.50052908622118,
+      112.04858924734847,
+      108.85049816952338
+    ],
+    "frequency_band_energies": {
+      "very_low": 196482.4626649562,
+      "low": 1291664.8198434676,
+      "mid_low": 2104195.2215396757,
+      "mid": 199877.6912690467,
+      "mid_high": 24372.130599356722,
+      "high": 20929.071345245462,
+      "very_high": 29181.728036458866
+    },
+    "spectral_centroid": 1610.8271179338465,
+    "spectral_spread": 1855.2860089282874,
+    "spectral_rolloff_85": 836.563702398504,
+    "spectral_rolloff_95": 1086.8423891545901,
+    "spectral_entropy": 12.147171916202119,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.089413499226869,
+    "fundamental_frequency": 275.86206896551727,
+    "periodicity_strength": 0.4797895276069432,
+    "spectral_flux": 1.9114205361964905e-10,
+    "frequency_stability": 2.0260128902171963e-10,
+    "filename": "oklmj.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 6.25175,
+    "dominant_frequencies": [
+      549.9260207142,
+      288.39924821050107,
+      242.01223657375937,
+      861.198864317991,
+      621.7459111448794
+    ],
+    "dominant_amplitudes": [
+      428.34648810927587,
+      393.68687446234185,
+      308.8093343094296,
+      249.5654675901331,
+      207.29744607059354
+    ],
+    "frequency_band_energies": {
+      "very_low": 3742024.842085234,
+      "low": 13809990.407249099,
+      "mid_low": 25917938.303265385,
+      "mid": 6198399.2590020895,
+      "mid_high": 204005.45790727198,
+      "high": 71444.75245024115,
+      "very_high": 84198.98358916205
+    },
+    "spectral_centroid": 1248.9797227370634,
+    "spectral_spread": 1445.0710721311063,
+    "spectral_rolloff_85": 941.1764705882354,
+    "spectral_rolloff_95": 1141.7603071140081,
+    "spectral_entropy": 13.707388869553629,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08956492182188987,
+    "fundamental_frequency": 280.70175438596493,
+    "periodicity_strength": 0.6026777416916871,
+    "spectral_flux": 2.7860864097006637e-10,
+    "frequency_stability": 3.821578877132363e-10,
+    "filename": "oigcg.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.4531875,
+    "dominant_frequencies": [
+      566.7850275785603,
+      243.64570321820045,
+      284.0661885447222,
+      492.0071297244951,
+      850.8512161232825
+    ],
+    "dominant_amplitudes": [
+      509.6550996594689,
+      379.2992635153499,
+      374.64810000459005,
+      283.344213702557,
+      194.19287503674846
+    ],
+    "frequency_band_energies": {
+      "very_low": 2268111.6484042555,
+      "low": 6340575.150913192,
+      "mid_low": 14669067.51186761,
+      "mid": 833481.5301760595,
+      "mid_high": 70589.74905278327,
+      "high": 118107.9015542763,
+      "very_high": 1083590.5761051069
+    },
+    "spectral_centroid": 2469.200212790255,
+    "spectral_spread": 2412.3279465135406,
+    "spectral_rolloff_85": 784.8310900899636,
+    "spectral_rolloff_95": 2014.0629605198524,
+    "spectral_entropy": 13.77028497031327,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.1431839553129079,
+    "fundamental_frequency": 271.1864406779661,
+    "periodicity_strength": 0.596644722003379,
+    "spectral_flux": 4.3984446673782177e-10,
+    "frequency_stability": 5.905393173493362e-10,
+    "filename": "wteat.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.0424375,
+    "dominant_frequencies": [
+      520.963865321802,
+      628.7721604798784,
+      683.3336757123194,
+      274.12231146901127,
+      97.9477803570328
+    ],
+    "dominant_amplitudes": [
+      277.02140550980914,
+      238.20013372567237,
+      220.94393799249778,
+      186.77180071536912,
+      166.5021395318268
+    ],
+    "frequency_band_energies": {
+      "very_low": 237402.33117579384,
+      "low": 2080282.4429560627,
+      "mid_low": 9073905.763686605,
+      "mid": 405801.6339384636,
+      "mid_high": 31672.502919713294,
+      "high": 11521.789785874142,
+      "very_high": 7639.140587639598
+    },
+    "spectral_centroid": 1061.2218876986387,
+    "spectral_spread": 1134.0147980079478,
+    "spectral_rolloff_85": 707.6562788882269,
+    "spectral_rolloff_95": 943.6512664598697,
+    "spectral_entropy": 12.142742948600882,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08051726617227141,
+    "fundamental_frequency": 640.0,
+    "periodicity_strength": 0.38322306214187096,
+    "spectral_flux": 8.920745697273651e-10,
+    "frequency_stability": 1.0463668799338966e-09,
+    "filename": "rshgweryr.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.072,
+    "dominant_frequencies": [
+      759.3325791855203,
+      492.22285067873304,
+      559.3891402714931,
+      606.052036199095,
+      716.0633484162896
+    ],
+    "dominant_amplitudes": [
+      439.76751243690853,
+      352.0220610509808,
+      316.9830187492065,
+      301.1708944952107,
+      290.80177649808996
+    ],
+    "frequency_band_energies": {
+      "very_low": 817513.9617000279,
+      "low": 9411372.351417776,
+      "mid_low": 49521827.95222561,
+      "mid": 3050579.8744638977,
+      "mid_high": 678581.8332262189,
+      "high": 254126.40846588867,
+      "very_high": 282872.0513248766
+    },
+    "spectral_centroid": 1444.2909712646704,
+    "spectral_spread": 1489.8711508688539,
+    "spectral_rolloff_85": 880.5147058823529,
+    "spectral_rolloff_95": 1033.512443438914,
+    "spectral_entropy": 14.006668325104167,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11040900735294118,
+    "fundamental_frequency": 253.96825396825398,
+    "periodicity_strength": 0.30464601607611447,
+    "spectral_flux": 5.071335247590442e-10,
+    "frequency_stability": 4.3184900978565837e-10,
+    "filename": "M18_10_10.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.512,
+    "dominant_frequencies": [
+      267.0656028368794,
+      638.2978723404254,
+      797.6507092198581,
+      530.5851063829787,
+      594.4148936170212
+    ],
+    "dominant_amplitudes": [
+      379.33132714364996,
+      326.0504753682891,
+      317.6376407200833,
+      317.5329764925132,
+      266.85166546119734
+    ],
+    "frequency_band_energies": {
+      "very_low": 412551.71133071196,
+      "low": 4948346.894811613,
+      "mid_low": 18476695.15637617,
+      "mid": 451854.6180171628,
+      "mid_high": 518832.4483899226,
+      "high": 633971.202338276,
+      "very_high": 616175.0513026369
+    },
+    "spectral_centroid": 2057.63186692222,
+    "spectral_spread": 1884.1233370708962,
+    "spectral_rolloff_85": 816.4893617021277,
+    "spectral_rolloff_95": 2893.6170212765956,
+    "spectral_entropy": 13.815958762631476,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.11839261968085106,
+    "fundamental_frequency": 280.70175438596493,
+    "periodicity_strength": 0.418770704698903,
+    "spectral_flux": 7.831807077811824e-10,
+    "frequency_stability": 8.831664288255219e-10,
+    "filename": "M11_04_05.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 14.272,
+    "dominant_frequencies": [
+      608.2539237668161,
+      475.5465246636771,
+      524.8038116591928,
+      565.8632286995515,
+      300.7286995515695
+    ],
+    "dominant_amplitudes": [
+      804.5914060258921,
+      656.4019501478541,
+      622.3271078464643,
+      499.7127539879927,
+      462.079262224142
+    ],
+    "frequency_band_energies": {
+      "very_low": 2871707.513374296,
+      "low": 78555927.76535684,
+      "mid_low": 172024513.57980183,
+      "mid": 3512022.432958574,
+      "mid_high": 2501385.639722739,
+      "high": 1045583.7986058354,
+      "very_high": 212060.2703899814
+    },
+    "spectral_centroid": 1182.3214028613495,
+    "spectral_spread": 1219.3859003975465,
+    "spectral_rolloff_85": 689.6020179372197,
+    "spectral_rolloff_95": 861.0566143497757,
+    "spectral_entropy": 14.6983705725432,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.09024225756726457,
+    "fundamental_frequency": 571.4285714285714,
+    "periodicity_strength": 0.3924680967532245,
+    "spectral_flux": 6.611945647569578e-10,
+    "frequency_stability": 5.609140445939284e-10,
+    "filename": "M12_03_04.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.712,
+    "dominant_frequencies": [
+      294.989224137931,
+      476.83189655172407,
+      253.50215517241375,
+      775.3232758620688,
+      597.2521551724137
+    ],
+    "dominant_amplitudes": [
+      329.38919325878805,
+      311.3433605869609,
+      309.9677939889338,
+      237.9459895650711,
+      173.45716814400433
+    ],
+    "frequency_band_energies": {
+      "very_low": 1661647.6813486225,
+      "low": 8368246.77452971,
+      "mid_low": 6620253.235795793,
+      "mid": 657211.9350263652,
+      "mid_high": 107584.20915103113,
+      "high": 78673.46653374658,
+      "very_high": 143434.18479274024
+    },
+    "spectral_centroid": 1517.2428958096991,
+    "spectral_spread": 1697.929618042059,
+    "spectral_rolloff_85": 780.1724137931034,
+    "spectral_rolloff_95": 1019.1271551724137,
+    "spectral_entropy": 13.25164935728905,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.10267376077586207,
+    "fundamental_frequency": 258.06451612903226,
+    "periodicity_strength": 0.5518120636528362,
+    "spectral_flux": 3.1514355472763907e-10,
+    "frequency_stability": 3.619566156240091e-10,
+    "filename": "rttuxgh.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.856,
+    "dominant_frequencies": [
+      280.2254098360656,
+      571.0382513661202,
+      613.217213114754,
+      417.6912568306011,
+      489.75409836065575
+    ],
+    "dominant_amplitudes": [
+      453.63291691424774,
+      342.94662411651746,
+      313.7526839262654,
+      308.53595835850155,
+      221.35855558823357
+    ],
+    "frequency_band_energies": {
+      "very_low": 537059.6638629893,
+      "low": 15714213.288686153,
+      "mid_low": 20517852.253005948,
+      "mid": 2089813.06604674,
+      "mid_high": 1265593.705944732,
+      "high": 1724042.9441436646,
+      "very_high": 2046123.77836145
+    },
+    "spectral_centroid": 2470.2195488210614,
+    "spectral_spread": 2263.9516216822335,
+    "spectral_rolloff_85": 1020.1502732240436,
+    "spectral_rolloff_95": 3808.9139344262294,
+    "spectral_entropy": 14.572588039895514,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.21702100409836064,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 4.250736329067649e-10,
+    "frequency_stability": 4.0704528286674467e-10,
+    "filename": "ЕгорК_20256.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.6,
+    "dominant_frequencies": [
+      830.892857142857,
+      658.3928571428571,
+      700.5357142857142,
+      508.74999999999994,
+      770.892857142857
+    ],
+    "dominant_amplitudes": [
+      332.5476754708642,
+      251.00558469984182,
+      247.035863707435,
+      209.63939678025858,
+      204.9347905040356
+    ],
+    "frequency_band_energies": {
+      "very_low": 120324.41198860713,
+      "low": 2810639.645177547,
+      "mid_low": 31843038.12612009,
+      "mid": 4687779.390069118,
+      "mid_high": 210979.72818369718,
+      "high": 278070.0897408889,
+      "very_high": 189970.96653159877
+    },
+    "spectral_centroid": 1516.2658948823357,
+    "spectral_spread": 1463.084065521504,
+    "spectral_rolloff_85": 986.0714285714284,
+    "spectral_rolloff_95": 1357.6785714285713,
+    "spectral_entropy": 13.76836203164991,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.15183035714285714,
+    "fundamental_frequency": 800.0,
+    "periodicity_strength": 0.3546792712533122,
+    "spectral_flux": 8.469888513015403e-10,
+    "frequency_stability": 7.829047855461162e-10,
+    "filename": "M13_06_10.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.648,
+    "dominant_frequencies": [
+      234.37499999999997,
+      711.0745614035087,
+      539.7478070175438,
+      946.2719298245613,
+      797.97149122807
+    ],
+    "dominant_amplitudes": [
+      427.1482034817972,
+      307.7351973558546,
+      265.7696454641759,
+      216.56427055086817,
+      178.1467288244337
+    ],
+    "frequency_band_energies": {
+      "very_low": 4417531.638789831,
+      "low": 3138839.2595941955,
+      "mid_low": 7605555.085767938,
+      "mid": 1760078.1383139761,
+      "mid_high": 64571.853305782344,
+      "high": 32932.089018399376,
+      "very_high": 14609.704695867766
+    },
+    "spectral_centroid": 1188.0117546770127,
+    "spectral_spread": 1254.5532411183233,
+    "spectral_rolloff_85": 947.3684210526314,
+    "spectral_rolloff_95": 1124.1776315789473,
+    "spectral_entropy": 12.833822830913247,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.08962102521929824,
+    "fundamental_frequency": 246.15384615384616,
+    "periodicity_strength": 0.464967776881965,
+    "spectral_flux": 2.5928487574006093e-10,
+    "frequency_stability": 3.001949979380495e-10,
+    "filename": "kjhfcg.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.463125,
+    "dominant_frequencies": [
+      591.6621548456957,
+      550.0812127774769,
+      495.2174697707995,
+      634.3981230824761,
+      295.97545569391804
+    ],
+    "dominant_amplitudes": [
+      336.8293678103826,
+      293.85246674822275,
+      255.98272825902615,
+      213.36736717367575,
+      160.41092341125133
+    ],
+    "frequency_band_energies": {
+      "very_low": 83568.377827548,
+      "low": 2254914.585808857,
+      "mid_low": 12363532.001326188,
+      "mid": 431857.7842357131,
+      "mid_high": 34743.56455908017,
+      "high": 113376.25614893642,
+      "very_high": 69349.66649464502
+    },
+    "spectral_centroid": 1326.9249302230633,
+    "spectral_spread": 1353.7651392711987,
+    "spectral_rolloff_85": 707.4535282439992,
+    "spectral_rolloff_95": 893.7014979245623,
+    "spectral_entropy": 12.713410136892119,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08530951091860675,
+    "fundamental_frequency": 592.5925925925926,
+    "periodicity_strength": 0.5456021089239108,
+    "spectral_flux": 7.528929556438276e-10,
+    "frequency_stability": 6.426088782505966e-10,
+    "filename": "M13_10_02.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.216,
+    "dominant_frequencies": [
+      258.819018404908,
+      549.2714723926381,
+      505.1763803680982,
+      602.569018404908,
+      308.66564417177915
+    ],
+    "dominant_amplitudes": [
+      492.8984763810314,
+      428.82310755232544,
+      374.948188394754,
+      322.6766357381144,
+      142.6098180338667
+    ],
+    "frequency_band_energies": {
+      "very_low": 838536.937681306,
+      "low": 9393115.87220233,
+      "mid_low": 22419435.88856267,
+      "mid": 1216982.0539390724,
+      "mid_high": 678626.254400391,
+      "high": 122528.39056879509,
+      "very_high": 155292.97851554718
+    },
+    "spectral_centroid": 1572.6229770090429,
+    "spectral_spread": 1668.6661600903194,
+    "spectral_rolloff_85": 639.1871165644172,
+    "spectral_rolloff_95": 1544.2868098159508,
+    "spectral_entropy": 13.698733650232196,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.13043999233128833,
+    "fundamental_frequency": 280.70175438596493,
+    "periodicity_strength": 0.5233926325283877,
+    "spectral_flux": 1.4905183184444491e-09,
+    "frequency_stability": 1.316970187141756e-09,
+    "filename": "sGs.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 2.208,
+    "dominant_frequencies": [
+      562.5,
+      632.6992753623188,
+      334.23913043478257,
+      287.5905797101449,
+      46.64855072463768
+    ],
+    "dominant_amplitudes": [
+      319.47830014961477,
+      216.4164624910356,
+      212.6893628134755,
+      186.60656524306543,
+      103.99426098458946
+    ],
+    "frequency_band_energies": {
+      "very_low": 96841.60735878913,
+      "low": 2453742.192440682,
+      "mid_low": 3305155.2201474807,
+      "mid": 107815.34412322441,
+      "mid_high": 146698.41419831943,
+      "high": 41737.93055703932,
+      "very_high": 88350.01328374715
+    },
+    "spectral_centroid": 2043.5921149395288,
+    "spectral_spread": 2076.571629497404,
+    "spectral_rolloff_85": 642.6630434782608,
+    "spectral_rolloff_95": 1698.8224637681158,
+    "spectral_entropy": 12.627754610527104,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.16411911231884058,
+    "fundamental_frequency": 301.8867924528302,
+    "periodicity_strength": 0.689932469641573,
+    "spectral_flux": 5.46260294150295e-10,
+    "frequency_stability": 8.188606449025249e-10,
+    "filename": "dasgGsd.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.424,
+    "dominant_frequencies": [
+      299.35747663551405,
+      603.0957943925234,
+      654.4976635514018,
+      258.4696261682243,
+      558.9953271028038
+    ],
+    "dominant_amplitudes": [
+      363.0510408432182,
+      297.47523975593396,
+      214.0409943631369,
+      202.74817983730958,
+      200.18956965220895
+    ],
+    "frequency_band_energies": {
+      "very_low": 333257.0835230105,
+      "low": 5847194.79763864,
+      "mid_low": 7394758.409542251,
+      "mid": 1335533.496661202,
+      "mid_high": 58956.41804162302,
+      "high": 26524.577778499282,
+      "very_high": 10208.91287349904
+    },
+    "spectral_centroid": 1150.5695949675485,
+    "spectral_spread": 1179.215188740163,
+    "spectral_rolloff_85": 665.5957943925234,
+    "spectral_rolloff_95": 1351.3434579439252,
+    "spectral_entropy": 12.560133566436471,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.07463858060747663,
+    "fundamental_frequency": 301.8867924528302,
+    "periodicity_strength": 0.6194350704838895,
+    "spectral_flux": 6.112701089834957e-10,
+    "frequency_stability": 5.543649111864152e-10,
+    "filename": "erueu.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.232,
+    "dominant_frequencies": [
+      457.3019801980198,
+      16.39851485148515,
+      525.990099009901,
+      363.5519801980198,
+      575.4950495049505
+    ],
+    "dominant_amplitudes": [
+      260.09034700470687,
+      253.35943019932574,
+      228.06331637732808,
+      173.5802917236459,
+      143.16390070889364
+    ],
+    "frequency_band_energies": {
+      "very_low": 675345.795288955,
+      "low": 4366410.934887217,
+      "mid_low": 4928024.461345036,
+      "mid": 2772042.371486322,
+      "mid_high": 272646.3666064689,
+      "high": 209070.61277518168,
+      "very_high": 147121.4465643863
+    },
+    "spectral_centroid": 1794.575462581454,
+    "spectral_spread": 1811.1324952640487,
+    "spectral_rolloff_85": 1125.9282178217823,
+    "spectral_rolloff_95": 1891.0891089108911,
+    "spectral_entropy": 13.465659586406625,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.17790841584158415,
+    "fundamental_frequency": 500.0,
+    "periodicity_strength": 0.32732786182489787,
+    "spectral_flux": 2.940668807744667e-10,
+    "frequency_stability": 3.1155695849186917e-10,
+    "filename": "mihaela-chuntul-demo-02-06-2025-diktorov.net2.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 3.392,
+    "dominant_frequencies": [
+      266.50943396226415,
+      326.9457547169811,
+      646.2264150943397,
+      402.4174528301887,
+      523.8797169811321
+    ],
+    "dominant_amplitudes": [
+      229.85597518697335,
+      224.4741059185774,
+      192.0291090301448,
+      144.45225604703265,
+      138.87471029200452
+    ],
+    "frequency_band_energies": {
+      "very_low": 483847.6326488371,
+      "low": 4617645.811292926,
+      "mid_low": 4146099.116864741,
+      "mid": 3271814.917003923,
+      "mid_high": 305369.3305000355,
+      "high": 648681.1962770151,
+      "very_high": 1253791.0435818238
+    },
+    "spectral_centroid": 2600.8089725369364,
+    "spectral_spread": 2187.320517534286,
+    "spectral_rolloff_85": 1997.9363207547171,
+    "spectral_rolloff_95": 5182.193396226416,
+    "spectral_entropy": 14.051500804596031,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1672317216981132,
+    "fundamental_frequency": 0.0,
+    "periodicity_strength": 0.0,
+    "spectral_flux": 2.953510906808127e-10,
+    "frequency_stability": 2.728812201395215e-10,
+    "filename": "Адриан-О8.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 5.12,
+    "dominant_frequencies": [
+      222.265625,
+      544.921875,
+      181.25,
+      363.4765625,
+      453.125
+    ],
+    "dominant_amplitudes": [
+      525.4393234490823,
+      370.80114194525396,
+      275.83507230770584,
+      262.10240405894314,
+      251.71538388169037
+    ],
+    "frequency_band_energies": {
+      "very_low": 11117043.587850781,
+      "low": 6142744.494589808,
+      "mid_low": 9292461.336910259,
+      "mid": 2394714.1629131124,
+      "mid_high": 1765657.380717599,
+      "high": 1320224.051140952,
+      "very_high": 1521581.396803635
+    },
+    "spectral_centroid": 2475.476569962454,
+    "spectral_spread": 2148.772067418767,
+    "spectral_rolloff_85": 1804.4921875,
+    "spectral_rolloff_95": 3709.765625,
+    "spectral_entropy": 14.449569209743489,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.1009033203125,
+    "fundamental_frequency": 225.35211267605635,
+    "periodicity_strength": 0.401944885353405,
+    "spectral_flux": 2.4142411920620184e-10,
+    "frequency_stability": 3.3603258114332635e-10,
+    "filename": "hjnk.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 7.744,
+    "dominant_frequencies": [
+      509.1683884297521,
+      467.4586776859505,
+      425.8780991735538,
+      254.90702479338844,
+      203.38326446280993
+    ],
+    "dominant_amplitudes": [
+      619.5070814926299,
+      367.33296130352954,
+      229.34770099446325,
+      228.8911934860747,
+      198.40045432650828
+    ],
+    "frequency_band_energies": {
+      "very_low": 4569667.073923571,
+      "low": 25361620.237981696,
+      "mid_low": 31515376.170384325,
+      "mid": 3388352.9497788735,
+      "mid_high": 2699497.049562362,
+      "high": 3087381.733962572,
+      "very_high": 6139107.626777448
+    },
+    "spectral_centroid": 2710.7659693042024,
+    "spectral_spread": 2329.1917190204035,
+    "spectral_rolloff_85": 2164.1270661157027,
+    "spectral_rolloff_95": 4971.203512396694,
+    "spectral_entropy": 15.167309596701218,
+    "rms_energy": 0.09999998658895493,
+    "zero_crossing_rate": 0.2127937758264463,
+    "fundamental_frequency": 500.0,
+    "periodicity_strength": 0.3840470366993681,
+    "spectral_flux": 7.087213875206633e-10,
+    "frequency_stability": 1.4903509501298796e-09,
+    "filename": "kngg.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.352,
+    "dominant_frequencies": [
+      874.3106617647059,
+      274.1268382352941,
+      332.03125,
+      1323.2996323529412,
+      834.0992647058823
+    ],
+    "dominant_amplitudes": [
+      309.35416189522385,
+      222.6052943511101,
+      211.33616266030594,
+      196.5319630969659,
+      187.90968155958626
+    ],
+    "frequency_band_energies": {
+      "very_low": 212241.26073499565,
+      "low": 7177231.578679871,
+      "mid_low": 8449783.93630822,
+      "mid": 3946186.376341212,
+      "mid_high": 1444681.2722440711,
+      "high": 1285809.939709878,
+      "very_high": 1727140.8635214877
+    },
+    "spectral_centroid": 2635.207955330878,
+    "spectral_spread": 2164.6036065969124,
+    "spectral_rolloff_85": 2202.205882352941,
+    "spectral_rolloff_95": 4773.4375,
+    "spectral_entropy": 14.346717677081536,
+    "rms_energy": 0.09999999403953552,
+    "zero_crossing_rate": 0.20756261488970587,
+    "fundamental_frequency": 432.43243243243245,
+    "periodicity_strength": 0.3733840879099303,
+    "spectral_flux": 3.55346786753155e-10,
+    "frequency_stability": 3.041254924811578e-10,
+    "filename": "Адриан-О4.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 0.704,
+    "dominant_frequencies": [
+      640.6250000000001,
+      217.3295454545455,
+      441.7613636363637,
+      696.0227272727274,
+      177.55681818181822
+    ],
+    "dominant_amplitudes": [
+      171.4700335544581,
+      80.31257537222213,
+      75.803949824919,
+      38.59634336167865,
+      38.47048465818444
+    ],
+    "frequency_band_energies": {
+      "very_low": 93758.70896989852,
+      "low": 93137.86839719745,
+      "mid_low": 436294.0390914048,
+      "mid": 9992.721966477548,
+      "mid_high": 613.6665836301088,
+      "high": 391.19419154404795,
+      "very_high": 200.4447925150761
+    },
+    "spectral_centroid": 953.1754753650112,
+    "spectral_spread": 1075.254771378342,
+    "spectral_rolloff_85": 666.1931818181819,
+    "spectral_rolloff_95": 758.5227272727274,
+    "spectral_entropy": 9.9222455356055,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.07892400568181818,
+    "fundamental_frequency": 640.0,
+    "periodicity_strength": 0.47391643157827007,
+    "spectral_flux": 8.520618120964911e-10,
+    "frequency_stability": 7.497064752382353e-10,
+    "filename": "235235wav.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 1.699125,
+    "dominant_frequencies": [
+      322.51894357389835,
+      643.8608107113956,
+      254.2485102626352,
+      369.6020010299419,
+      563.8196130361215
+    ],
+    "dominant_amplitudes": [
+      291.66712193653854,
+      170.75159245773702,
+      167.99110638571187,
+      136.02789351069814,
+      97.27924241151017
+    ],
+    "frequency_band_energies": {
+      "very_low": 160121.31632363977,
+      "low": 2011142.9343773925,
+      "mid_low": 1201311.2338363116,
+      "mid": 221167.0433059642,
+      "mid_high": 73272.44989623057,
+      "high": 22489.330146020082,
+      "very_high": 5889.9352159277305
+    },
+    "spectral_centroid": 1345.584674632301,
+    "spectral_spread": 1422.7547521398756,
+    "spectral_rolloff_85": 750.9747664238947,
+    "spectral_rolloff_95": 1321.8568380784227,
+    "spectral_entropy": 12.017407610386867,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.08029868314573678,
+    "fundamental_frequency": 320.0,
+    "periodicity_strength": 0.5591343001537779,
+    "spectral_flux": 1.7767629078756462e-10,
+    "frequency_stability": 2.1100983914756095e-10,
+    "filename": "hjhkjnk.wav"
+  },
+  {
+    "group_label": "child_boy",
+    "sample_rate": 16000,
+    "duration": 4.704,
+    "dominant_frequencies": [
+      244.47278911564626,
+      588.0102040816327,
+      294.8554421768708,
+      514.030612244898,
+      664.7534013605442
+    ],
+    "dominant_amplitudes": [
+      432.5713942788065,
+      336.35760186470554,
+      247.06284410942973,
+      215.9147331716034,
+      158.74804439312953
+    ],
+    "frequency_band_energies": {
+      "very_low": 3862417.899984299,
+      "low": 7417221.089631335,
+      "mid_low": 12832103.72044894,
+      "mid": 3034492.9066217192,
+      "mid_high": 265382.3600485856,
+      "high": 387113.0160950697,
+      "very_high": 524623.2871943258
+    },
+    "spectral_centroid": 2012.121694069837,
+    "spectral_spread": 2095.120960919147,
+    "spectral_rolloff_85": 994.4727891156464,
+    "spectral_rolloff_95": 1697.9166666666667,
+    "spectral_entropy": 13.988193888052004,
+    "rms_energy": 0.10000000149011612,
+    "zero_crossing_rate": 0.1876062925170068,
+    "fundamental_frequency": 290.90909090909093,
+    "periodicity_strength": 0.40137121563040495,
+    "spectral_flux": 6.517762969684367e-10,
+    "frequency_stability": 6.941442726200068e-10,
+    "filename": "mknvdk.wav"
+  }
+]

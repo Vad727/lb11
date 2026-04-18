@@ -1,0 +1,154 @@
+{
+  "adult_male": {
+    "spectral_centroid": 1664.0177963045367,
+    "spectral_spread": 1784.1180134913393,
+    "spectral_rolloff_85": 927.8611581576354,
+    "spectral_rolloff_95": 1938.2483931266515,
+    "spectral_entropy": 13.015493939379615,
+    "rms_energy": 0.10000000141707122,
+    "zero_crossing_rate": 0.12672367912866198,
+    "fundamental_frequency": 449.02936941498444,
+    "periodicity_strength": 0.247531910171075,
+    "spectral_flux": 3.05693954944246e-10,
+    "frequency_stability": 3.2752082150736694e-10,
+    "dominant_frequencies": [
+      432.216108054027,
+      388.19409704852427,
+      336.16808404202106,
+      484.2421210605303,
+      128.064032016008
+    ],
+    "frequency_band_energies": {
+      "very_low": 5290156.928850963,
+      "low": 9548455.06481176,
+      "mid_low": 4171132.272228661,
+      "mid": 1599335.7684562886,
+      "mid_high": 563322.0576140528,
+      "high": 247659.50793707487,
+      "very_high": 575500.0906500047
+    },
+    "group_label": "adult_male",
+    "dominant_amplitudes": [
+      80.55854044737968,
+      78.25455234569539,
+      77.37347309349241,
+      77.11662335280757,
+      74.90778533793693
+    ],
+    "n_files": 102
+  },
+  "adult_female": {
+    "spectral_centroid": 1797.5234237426573,
+    "spectral_spread": 1897.5188617018853,
+    "spectral_rolloff_85": 922.6368172259955,
+    "spectral_rolloff_95": 1895.1599904229465,
+    "spectral_entropy": 13.45066130846995,
+    "rms_energy": 0.10000000215402924,
+    "zero_crossing_rate": 0.12908196378229234,
+    "fundamental_frequency": 398.06385351565154,
+    "periodicity_strength": 0.4038921141553829,
+    "spectral_flux": 4.910987965438126e-10,
+    "frequency_stability": 5.236131166164292e-10,
+    "dominant_frequencies": [
+      220.11005502751377,
+      272.13606803401706,
+      452.2261130565283,
+      384.19209604802404,
+      320.16008004002003
+    ],
+    "frequency_band_energies": {
+      "very_low": 9287065.7622487,
+      "low": 14502453.910227014,
+      "mid_low": 10039711.800212616,
+      "mid": 3651296.0247047697,
+      "mid_high": 571379.2794132882,
+      "high": 360367.29605593387,
+      "very_high": 665983.7896732568
+    },
+    "group_label": "adult_female",
+    "dominant_amplitudes": [
+      105.63984676235212,
+      88.95723018990752,
+      78.3878983749172,
+      71.89181525197314,
+      66.88327037472992
+    ],
+    "n_files": 101
+  },
+  "child_boy": {
+    "spectral_centroid": 1784.3132294098202,
+    "spectral_spread": 1711.6952325265179,
+    "spectral_rolloff_85": 1181.7749650480228,
+    "spectral_rolloff_95": 2212.7211283801394,
+    "spectral_entropy": 13.637371662199303,
+    "rms_energy": 0.1000000005514603,
+    "zero_crossing_rate": 0.13036356103890084,
+    "fundamental_frequency": 381.38681896082846,
+    "periodicity_strength": 0.38381297495213257,
+    "spectral_flux": 4.863963187678273e-10,
+    "frequency_stability": 5.125390157832013e-10,
+    "dominant_frequencies": [
+      524.2621310655328,
+      252.12606303151577,
+      572.2861430715358,
+      296.14807403701855,
+      620.3101550775389
+    ],
+    "frequency_band_energies": {
+      "very_low": 2368010.2337359446,
+      "low": 12533674.17127973,
+      "mid_low": 20772742.46052939,
+      "mid": 4488928.088154249,
+      "mid_high": 1266516.0080521123,
+      "high": 869879.2616048265,
+      "very_high": 1064653.2872070128
+    },
+    "group_label": "child_boy",
+    "dominant_amplitudes": [
+      91.93610706846634,
+      91.02339963183321,
+      84.55945974210738,
+      83.92418580509792,
+      76.15621915644297
+    ],
+    "n_files": 127
+  },
+  "child_girl": {
+    "spectral_centroid": 1784.8692053318719,
+    "spectral_spread": 1726.0751121879093,
+    "spectral_rolloff_85": 1134.8105746210415,
+    "spectral_rolloff_95": 2110.869740073287,
+    "spectral_entropy": 13.8061824638029,
+    "rms_energy": 0.10000000031679634,
+    "zero_crossing_rate": 0.1346544636812543,
+    "fundamental_frequency": 314.40213785026924,
+    "periodicity_strength": 0.3516573144350932,
+    "spectral_flux": 5.013052403688329e-10,
+    "frequency_stability": 5.255890005872132e-10,
+    "dominant_frequencies": [
+      536.2681340670335,
+      276.1380690345173,
+      596.2981490745373,
+      656.3281640820411,
+      332.1660830415208
+    ],
+    "frequency_band_energies": {
+      "very_low": 2165251.4143743976,
+      "low": 14815686.004343474,
+      "mid_low": 21690494.327551037,
+      "mid": 5422471.94486631,
+      "mid_high": 1619059.9681722568,
+      "high": 772783.6300588591,
+      "very_high": 866111.119444062
+    },
+    "group_label": "child_girl",
+    "dominant_amplitudes": [
+      97.53743257964588,
+      92.72542694575954,
+      78.54839275146078,
+      73.96700928823965,
+      73.96403005438489
+    ],
+    "n_files": 127
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_estimators": 300,
+  "criterion": "gini",
+  "max_depth": null,
+  "min_samples_split": 2,
+  "min_samples_leaf": 1,
+  "max_features": "sqrt",
+  "bootstrap": true,
+  "class_weight": "balanced",
+  "n_jobs": -1
+}

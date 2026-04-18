@@ -1,0 +1,13 @@
+rules:
+  - id: python-unsafe-joblib-load
+    languages: [python]
+    severity: ERROR
+    message: "Небезопасная десериализация: joblib.load() загружает объект из файла без проверки доверенности источника."
+    metadata:
+      cwe: "CWE-502"
+      category: security
+      technology: [python]
+      impact: high
+      confidence: medium
+    patterns:
+      - pattern: joblib.load($PATH)

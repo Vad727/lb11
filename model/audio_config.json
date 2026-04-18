@@ -1,0 +1,21 @@
+{
+  "sample_rate": 16000,
+  "top_db": 25.0,
+  "n_fft": 512,
+  "win_length": 400,
+  "hop_length": 160,
+  "min_duration_sec": 0.3,
+  "target_rms": 0.1,
+  "yin_fmin": 50.0,
+  "yin_fmax": 800.0,
+  "n_mfcc": 13,
+  "formant_order": 12,
+  "max_formant_frames": 200,
+  "window_sec": 1.0,
+  "window_hop_sec": 0.5,
+  "min_window_voiced_ratio": 0.3,
+  "fallback_window_voiced_ratio": 0.15,
+  "max_windows_per_file_train": 5,
+  "max_windows_per_file_infer": 5,
+  "probability_aggregation": "mean"
+}

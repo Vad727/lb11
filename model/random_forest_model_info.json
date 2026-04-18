@@ -1,0 +1,38 @@
+{
+  "model_type": "random_forest_cascade_windowed",
+  "n_classes_final": 4,
+  "train_files": 365,
+  "test_files": 92,
+  "train_windows": 1598,
+  "test_windows": 378,
+  "selection": {
+    "min_window_voiced_ratio": 0.3,
+    "fallback_window_voiced_ratio": 0.15,
+    "max_windows_per_file_train": 5,
+    "max_windows_per_file_infer": 5,
+    "probability_aggregation": "mean"
+  },
+  "stages": {
+    "age_group": {
+      "classes": [
+        "adult",
+        "child"
+      ],
+      "n_estimators": 300
+    },
+    "adult_gender": {
+      "classes": [
+        "adult_female",
+        "adult_male"
+      ],
+      "n_estimators": 300
+    },
+    "child_gender": {
+      "classes": [
+        "child_boy",
+        "child_girl"
+      ],
+      "n_estimators": 300
+    }
+  }
+}

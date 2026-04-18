@@ -1,0 +1,188 @@
+{
+    "engine_requested": "OSS",
+    "errors": [],
+    "paths": {
+        "scanned": [
+            "gui/README_GUI.txt",
+            "gui/build_exe_windows.bat",
+            "gui/gui_voice_classifier_app.py",
+            "model/audio_config.json",
+            "model/classification_report.csv",
+            "model/classification_report.txt",
+            "model/confusion_matrix.csv",
+            "model/feature_columns.json",
+            "model/feature_importance_stage1_age_group.csv",
+            "model/feature_importance_stage2_adult_gender.csv",
+            "model/feature_importance_stage3_child_gender.csv",
+            "model/metrics.json",
+            "model/random_forest_model_info.json",
+            "model/scaler_parameters_stage1_age_group.csv",
+            "model/scaler_parameters_stage2_adult_gender.csv",
+            "model/scaler_parameters_stage3_child_gender.csv",
+            "model/test_predictions.csv",
+            "model/test_window_predictions.csv",
+            "model/train_config.json",
+            "predict_random_forest_voice_cascade_windowed_improved.py",
+            "semgrep-local.yml",
+            "semgrep-report.json",
+            "spectral_analysis/adult_female/adult_female_spectrum.png",
+            "spectral_analysis/adult_female/average_features.json",
+            "spectral_analysis/adult_female/features.json",
+            "spectral_analysis/adult_male/adult_male_spectrum.png",
+            "spectral_analysis/adult_male/average_features.json",
+            "spectral_analysis/adult_male/features.json",
+            "spectral_analysis/child_boy/average_features.json",
+            "spectral_analysis/child_boy/child_boy_spectrum.png",
+            "spectral_analysis/child_boy/features.json",
+            "spectral_analysis/child_girl/average_features.json",
+            "spectral_analysis/child_girl/child_girl_spectrum.png",
+            "spectral_analysis/child_girl/features.json",
+            "spectral_analysis/comparison.json",
+            "spectral_analysis/comparison_chart.png",
+            "train_random_forest_voice_cascade_windowed_improved.py",
+            "train_random_forest_voice_cascade_windowed_with_spectrum_graphs.py"
+        ]
+    },
+    "profiling_results": [],
+    "results": [
+        {
+            "check_id": "python-unsafe-joblib-load",
+            "end": {
+                "col": 53,
+                "line": 360,
+                "offset": 14700
+            },
+            "extra": {
+                "engine_kind": "OSS",
+                "fingerprint": "requires login",
+                "lines": "requires login",
+                "message": "Небезопасная десериализация: joblib.load() загружает объект из файла без проверки доверенности источника.",
+                "metadata": {
+                    "category": "security",
+                    "confidence": "medium",
+                    "cwe": "CWE-502",
+                    "impact": "high",
+                    "technology": [
+                        "python"
+                    ]
+                },
+                "severity": "ERROR",
+                "validation_state": "NO_VALIDATOR"
+            },
+            "path": "gui/gui_voice_classifier_app.py",
+            "start": {
+                "col": 18,
+                "line": 360,
+                "offset": 14665
+            }
+        },
+        {
+            "check_id": "python-unsafe-joblib-load",
+            "end": {
+                "col": 53,
+                "line": 387,
+                "offset": 15839
+            },
+            "extra": {
+                "engine_kind": "OSS",
+                "fingerprint": "requires login",
+                "lines": "requires login",
+                "message": "Небезопасная десериализация: joblib.load() загружает объект из файла без проверки доверенности источника.",
+                "metadata": {
+                    "category": "security",
+                    "confidence": "medium",
+                    "cwe": "CWE-502",
+                    "impact": "high",
+                    "technology": [
+                        "python"
+                    ]
+                },
+                "severity": "ERROR",
+                "validation_state": "NO_VALIDATOR"
+            },
+            "path": "predict_random_forest_voice_cascade_windowed_improved.py",
+            "start": {
+                "col": 18,
+                "line": 387,
+                "offset": 15804
+            }
+        }
+    ],
+    "skipped_rules": [],
+    "time": {
+        "fixpoint_timeouts": [],
+        "matching_time": {
+            "per_file_and_rule_time": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            },
+            "total_time": 0.0,
+            "very_slow_rules_on_files": [],
+            "very_slow_stats": {
+                "count_ratio": 0.0,
+                "time_ratio": 0.0
+            }
+        },
+        "max_memory_bytes": 687399744,
+        "parsing_time": {
+            "per_file_time": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            },
+            "total_time": 0.0,
+            "very_slow_files": [],
+            "very_slow_stats": {
+                "count_ratio": 0.0,
+                "time_ratio": 0.0
+            }
+        },
+        "prefiltering": {
+            "file_level_time": 0.0,
+            "project_level_time": 0.0,
+            "rules_matched_ratio": 0.10033821871476889,
+            "rules_selected_ratio": 0.10033821871476889,
+            "rules_with_file_prefilters_ratio": 0.9695603156708005,
+            "rules_with_project_prefilters_ratio": 0.0
+        },
+        "profiling_times": {
+            "config_time": 1.9130373001098633,
+            "core_time": 4.004330635070801,
+            "ignores_time": 0.0007309913635253906,
+            "total_time": 5.93665075302124
+        },
+        "rules": [],
+        "rules_parse_time": 0.5409309864044189,
+        "scanning_time": {
+            "per_file_time": {
+                "mean": 0.1229242525602642,
+                "std_dev": 0.09989487951334999
+            },
+            "total_time": 7.006682395935059,
+            "very_slow_files": [
+                {
+                    "fpath": "train_random_forest_voice_cascade_windowed_with_spectrum_graphs.py",
+                    "ftime": 1.8269729614257812
+                }
+            ],
+            "very_slow_stats": {
+                "count_ratio": 0.017543859649122806,
+                "time_ratio": 0.260747220751108
+            }
+        },
+        "tainting_time": {
+            "per_def_and_rule_time": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            },
+            "total_time": 0.0,
+            "very_slow_rules_on_defs": [],
+            "very_slow_stats": {
+                "count_ratio": 0.0,
+                "time_ratio": 0.0
+            }
+        },
+        "targets": [],
+        "total_bytes": 0
+    },
+    "version": "1.159.0"
+}

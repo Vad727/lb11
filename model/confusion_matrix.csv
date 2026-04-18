@@ -1,0 +1,5 @@
+﻿,adult_male,adult_female,child_boy,child_girl
+adult_male,19,1,0,0
+adult_female,1,17,1,1
+child_boy,0,4,15,7
+child_girl,0,2,8,16
